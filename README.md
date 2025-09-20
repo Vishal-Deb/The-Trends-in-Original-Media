@@ -8,13 +8,13 @@ This dataset captures a cross-section of information from IMDb, including identi
 
 The primary objective of this project is to extract insights that highlight:
 
-The distribution of content types and production volumes across studios.
+- The distribution of content types and production volumes across studios.
 
-The relationship between audience ratings, popularity (votes), and content genres.
+- The relationship between audience ratings, popularity (votes), and content genres.
 
-Trends in release frequency and runtime characteristics over time.
+- Trends in release frequency and runtime characteristics over time.
 
-Comparative performance of major studios and platforms.
+- Comparative performance of major studios and platforms.
 
 By focusing on measurable outcomes such as ratings, popularity, and production diversity, the analysis is designed to surface actionable insights with direct implications for content strategy, platform differentiation, and audience targeting.
 
