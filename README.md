@@ -19,3 +19,5 @@ The primary objective of this project is to extract insights that highlight:
 By focusing on measurable outcomes such as ratings, popularity, and production diversity, the analysis is designed to surface actionable insights with direct implications for content strategy, platform differentiation, and audience targeting.
 
 This work also establishes a framework for future extensions, including the integration of external performance indicators (such as revenue data or streaming hours) and predictive modeling to anticipate audience reception.
+
+## Data Structure Overview
