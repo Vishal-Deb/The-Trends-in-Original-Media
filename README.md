@@ -21,7 +21,7 @@ By focusing on measurable outcomes such as ratings, popularity, and production d
 This work also establishes a framework for future extensions, including the integration of external performance indicators (such as revenue data or streaming hours) and predictive modeling to anticipate audience reception.
 
 ## 2. Data Structure Overview
-The dataset was compiled from IMDb based on original productions from Netflix, Hulu, Amazon, Disney, and HBO. After appending and cleaning the CSV files, the data was imported into MySQL for structured analysis.
+The dataset was compiled from IMDb based on original productions from Netflix, Hulu, Amazon, Disney, and HBO. After appending and cleaning the CSV files, the data was imported into MySQL for structured analysis. The 'everything.csv' file contains 4000+ records for all the produced media. The 'genres.csv' contain 12000+ records when those media titiles are split according to their genres. 
 
 Three main tables were created:
 
