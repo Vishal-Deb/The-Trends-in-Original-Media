@@ -80,7 +80,7 @@ This analysis reviews the production output of animated content across five majo
 
 ![](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Images/newplot(16)-imageonline.co-merged(1).png)
 
-To use the graphs click
+To use these plots ![clicke here1](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/weighted_rating_bar.html), ![here2](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/votes_percentage_by_origin.html), ![here3](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/weighted_rating_by_origin.html), ![here4](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/weighted_rating_trends.html)
 
 This analysis synthesizes data from four charts comparing animated content on Amazon, Disney, HBO, Hulu, and Netflix based on ratings and viewer engagement.
 
@@ -114,8 +114,9 @@ This analysis synthesizes data from four charts comparing animated content on Am
 ![](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Images/newplot(21)-imageonline.co-merged.png)
 ![](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Images/newplot(20)-imageonline.co-merged.png)
 
+To use these plots click ![here1](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/avg_rating_bar.html), ![here2](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/status_percentage_by_rating.html), ![here3](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/weighted_rating_bar.html).
 
-This analysis examines how streaming services decide whether to cancel an animated TV show or allow it to reach a natural conclusion, based on the show's rating. The data reveals starkly different strategies between platforms.
+This analysis examines how streaming services decide whether to cancel an animated TV show or allow it to reach a natural conclusion, based on the show's rating. The data reveals starkly different strategies between platforms. Here the percentage of shows cancelled/concluded compared to shows produced in the genre is provided. 
 
 #### Cancellation Strategies and Quality Threshold:
 
