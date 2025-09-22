@@ -56,6 +56,8 @@ Of course. Here is a professional analysis based on the two graphs provided, foc
 
 ![](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Images/newplot(12)-imageonline.co-merged.png)
 
+To use these plots ![click here](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/genre_comparison_by_origin.html) and ![here](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/genre_trends_by_year.html)
+
 This analysis reviews the production output of animated content across five major streaming platforms, examining both the internal focus of each service's library and their historical share of annual releases.
 
 #### Internal Library Focus on Animation:
@@ -71,12 +73,6 @@ This analysis reviews the production output of animated content across five majo
 - Increased Competition (2016-2019): This period saw the landscape shift dramatically. While Netflix's output remained relatively steady, the entry and expansion of Disney and Amazon created a more competitive and fragmented market.
 - Current Landscape (2020-Present): The market is now highly contested. 2020 was a peak year with significant releases from all major platforms. In the most recent years, Disney has emerged as a consistent and powerful force, frequently contributing the largest share of new animated content annually.
 
-### **Conclusion**
-
-In summary, a platform's internal focus on animation strongly correlates with its production activity. **Disney's** high library percentage is matched by its recent dominance in producing new animated titles. While early players like **Netflix and Hulu** established the market, they now face intense competition. **Amazon** remains a minor player, consistent with the low priority it gives the genre within its overall catalog.
-
-
-
 
 ### Ratings and Votes
 
@@ -84,6 +80,7 @@ In summary, a platform's internal focus on animation strongly correlates with it
 
 ![](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Images/newplot(16)-imageonline.co-merged(1).png)
 
+To use the graphs click
 
 This analysis synthesizes data from four charts comparing animated content on Amazon, Disney, HBO, Hulu, and Netflix based on ratings and viewer engagement.
 
@@ -111,6 +108,95 @@ This analysis synthesizes data from four charts comparing animated content on Am
 
 - Amazon, Disney, and HBO data is more recent but shows sharp peaks in quality within specific years (e.g., Amazon around 2019, Disney around 2024), indicating the impact of specific high-profile releases.
 
-Conclusion
 
-The data indicates that the platforms with the highest-rated animated content (HBO) are not the ones with the highest viewership (Netflix). Netflix's strategy appears to focus on a large volume of content that generates high engagement, even if the average quality is not top-tier. Conversely, services like HBO and Amazon seem to have a more curated, higher-quality selection that attracts a smaller but appreciative audience.
+### Cancellation Trends 
+
+![](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Images/newplot(21)-imageonline.co-merged.png)
+![](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Images/newplot(20)-imageonline.co-merged.png)
+
+
+This analysis examines how streaming services decide whether to cancel an animated TV show or allow it to reach a natural conclusion, based on the show's rating. The data reveals starkly different strategies between platforms.
+
+#### Cancellation Strategies and Quality Threshold:
+
+- HBO exhibits the most stringent quality control. The average weighted rating of an animated show it cancels is remarkably high at approximately 7.6. Furthermore, 100% of its cancellations fall within the high 7-9 rating range, indicating it will cancel even high-performing shows that don't meet its elite standards.
+
+- Netflix follows a more conventional strategy. It cancels the lowest-rated shows on average (around 6.9). A significant majority (over 60%) of its cancelled shows are rated below 6.0, suggesting that poor performance is the primary driver for cancellation.
+
+- Disney and Hulu fall in the middle, cancelling shows with an average rating of about 7.1. Their cancellations are concentrated in the mid-tier 6-8 rating range.
+
+#### Conclusion Strategies (Which Shows Get a Proper Ending):
+
+- Amazon Prime Video prioritizes giving its best-rated shows a definitive conclusion. The average rating of its concluded animated shows is the highest of all platforms (approximately 7.4), and 100% of these shows are rated 7.0 or higher.
+
+- Disney and Hulu show a peculiar and opposite trend. For both platforms, 100% of the animated shows that have reached a conclusion are rated below 7.0. This suggests a strategy where higher-rated, successful animated shows are kept running or left open-ended, while only lower-rated series are given a final season.
+
+- Netflix and HBO allow shows to conclude across a wider spectrum of quality, with a mix of concluded shows in the 6-7, 7-8, and 8-9 rating brackets.
+
+#### Important Disclaimer
+
+- Data Collection and Accuracy: Please be aware that the data for this study was collected using AI and automated methods. As such, there is a possibility of errors or inaccuracies within the dataset.
+
+- Limitations of Analysis: This analysis identifies trends and correlations between show ratings and their cancellation or conclusion. However, it cannot determine the true, multi-faceted reasoning behind a studio's decision. The cancellation of a show is a complex business decision influenced by many factors beyond public ratings, such as production costs, specific viewership metrics, licensing agreements, and shifts in strategic direction.
+
+
+
+### 5. Conclusion
+
+Based on a holistic review of the data—covering production volume, content quality, audience engagement, and series lifecycle management—it is clear that each major streaming platform employs a distinct and consistent strategy for its animated content. There is no single path to success; rather, each service has tailored its approach to fit its overarching brand identity and business model.
+
+- HBO: The Prestige Curator
+
+  - Strategy: HBO treats animation as a prestige genre, dedicating a significant portion of its library to it and achieving the highest average quality ratings. Its focus is on critical acclaim over mass-market appeal.
+
+  - Lifecycle: Its curation is ruthless. HBO maintains its elite standard by cancelling even high-rated shows that don't meet its exceptional bar, demonstrating a "quality-over-quantity" philosophy.
+
+- Netflix: The Volume and Engagement Leader
+
+  - Strategy: Netflix’s model is built on market saturation. While its average quality is moderate, it dominates in production volume and audience engagement, capturing the largest share of viewers.
+
+  - Lifecycle: Its approach is pragmatic and data-driven. The platform systematically prunes its lowest-rated, underperforming content while allowing a wide variety of other shows to play out, optimizing its vast and diverse catalog for broad appeal.
+
+- Disney+: The Brand Champion
+
+  - Strategy: Animation is the core of Disney's brand identity. It dedicates the highest percentage of its library to the genre and has become a dominant force in producing new animated content.
+
+  - Lifecycle: Its management strategy is protective of its intellectual property. High-rated, successful shows are treated as long-term assets and are rarely given definitive conclusions, ensuring the longevity of valuable franchises. Meanwhile, lower-rated shows are allowed to conclude.
+
+- Amazon Prime Video: The Niche Quality Provider
+
+  - Strategy: Amazon is a minor but deliberate player in animation, with the smallest library share and lowest audience engagement. Its focus appears to be on targeted, high-quality acquisitions or productions.
+
+  - Lifecycle: It invests in its content's integrity. Amazon shows a strong tendency to allow its high-rated animated series to reach a proper, planned conclusion, rewarding the niche audience it attracts for that content.
+
+- Hulu: The Legacy Competitor
+
+  - Strategy: As an early market player, Hulu maintains a moderate focus on animation but now faces intense competition.
+
+  - Lifecycle: Its content strategy appears aligned with its partner, Disney. It avoids concluding its successful, higher-rated animated series, likely to retain viewership and keep valuable assets in play.
+ 
+### 6. Recommendations for Future Application
+
+This comprehensive analysis of streaming platform strategies provides actionable intelligence for various stakeholders. The insights can be used to inform decision-making, from creative development to investment strategy.
+
+#### For Content Creators and Animation Studios:
+
+- Strategic Pitching: Creators can tailor their pitches to align with a platform's demonstrated strategy. High-concept, prestige projects are best suited for HBO, while shows with broad engagement potential and franchise possibilities are ideal for Netflix and Disney+.
+
+- Narrative Planning: For series with a definitive, planned story arc, Amazon Prime Video appears to be the most receptive home. Conversely, pitches to Disney+ or Hulu should emphasize a concept's potential for longevity and open-ended storytelling.
+
+- Risk Assessment: Understanding a platform's cancellation habits is crucial. A high-rated show on HBO is not guaranteed safety, whereas a moderately-rated show on Netflix that avoids the lowest performance tier has a better chance of survival.
+
+#### For Investors and Market Analysts:
+
+- Evaluating Business Models: The analysis provides a clear framework for comparing the viability of different streaming strategies. Investors can contrast the high-cost, high-prestige model of HBO against the volume-driven, mass-market model of Netflix to assess long-term profitability and market sustainability.
+
+- Identifying Growth and Risk: Amazon's minimal footprint in animation signals a potential area for future growth or a persistent strategic weakness. Similarly, Disney's increasing dominance in production volume could signal a risk of market monopolization, affecting smaller players.
+
+- Predicting Content Cycles: The data reveals predictable patterns, such as Netflix's tendency to cancel low-rated shows. This can be used to forecast content churn and evaluate the stability of a platform's library.
+
+#### For Consumers:
+
+- Informed Subscription Choices: Viewers can select services that best align with their tastes. A consumer seeking critically acclaimed masterpieces would gravitate towards HBO, while one wanting the largest variety would choose Netflix. Families and fans of long-running universes would find the most value in Disney+.
+
+- Managing Expectations: By understanding that platforms like Disney+ and Hulu often keep their highest-rated shows open-ended, viewers can adjust their expectations regarding series conclusions. Conversely, viewers seeking satisfying, complete narratives may find them more consistently on Amazon Prime Video.
