@@ -21,3 +21,29 @@ By focusing on measurable outcomes such as ratings, popularity, and production d
 This work also establishes a framework for future extensions, including the integration of external performance indicators (such as revenue data or streaming hours) and predictive modeling to anticipate audience reception.
 
 ## Data Structure Overview
+The dataset was compiled from IMDb based on original productions from Netflix, Hulu, Amazon, Disney, and HBO. After appending and cleaning the CSV files, the data was imported into MySQL for structured analysis.
+
+Three main tables were created:
+
+- Everything – core information (IMDb ID, title, type, studio, rating, votes, runtime, year).
+
+- Genre – a relational table linking each IMDb ID with one or more genres.
+
+- TV Show Status – indicates whether a series was canceled or concluded.
+
+This relational setup supports detailed trend, genre, and status analysis across platforms.
+
+![](Images/Screenshot%202025-09-22%20120030.png)
+
+*Genres were parsed from the IMDb dataset by separating multi-genre entries (delimited by commas) into distinct categories. This ensured that each title could be accurately linked to multiple genres for more granular analysis.
+
+## 3. Executive Summary
+
+The analysis highlights that Netflix holds a disproportionately large share in the creation of original content. However, given the platform’s strategic reliance on original productions, simple volume comparisons with other studios would present an incomplete picture. To maintain clarity and focus, this project narrows its scope to two areas of particular interest: the animation genre and television series, allowing for a more balanced and meaningful exploration of trends.
+
+![](Images/newplot(8).png)
+![](Images/newplot(7)-imageonline.co-merged.png)
+
+![here](Generated%20Plots/pie_by_origin.html)
+
+### Summery Overview
