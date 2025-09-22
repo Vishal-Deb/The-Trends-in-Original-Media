@@ -1,0 +1,1001 @@
+imdb_id,title,type,origin,rating,runtime_mins,year,genres,votes
+tt0069049,"The Other Side of the Wind",Movie,Netflix,6.7,122,2018,Drama,8366
+tt0290988,"Trailer Park Boys","TV Series",Netflix,8.5,30,2001,"Comedy, Crime",55677
+tt0365545,"Nappily Ever After",Movie,Netflix,6.4,98,2018,"Comedy, Drama, Romance",10198
+tt0367279,"Arrested Development","TV Series",Netflix,8.6,22,2003,Comedy,337465
+tt0388644,"The Staircase","TV Series",Netflix,7.8,NULL,2004,"Documentary, Crime, Drama",28685
+tt0412253,"Veronica Mars","TV Series",Hulu,8.3,45,2004,"Crime, Drama, Mystery, Thriller",80963
+tt0458290,"Star Wars: The Clone Wars","TV Series",Netflix,8.5,23,2008,"Animation, Action, Adventure, Drama, Fantasy, Sci-Fi",136622
+tt0459159,"The Thick of It","TV Series",Hulu,8.7,30,2005,Comedy,28422
+tt0460890,"The Only Living Boy in New York",Movie,Amazon,6.4,89,2017,Drama,19216
+tt0463398,"Dancing with the Stars","TV Series",Disney,4.9,60,2005,"Family, Music, Reality-TV",10901
+tt0489974,"Carnival Row","TV Series",Amazon,7.7,56,2019,"Crime, Drama, Fantasy, Mystery, Thriller",86782
+tt0800325,"The Dirt",Movie,Netflix,7,107,2019,"Biography, Comedy, Drama, Music",59111
+tt0837156,"Pee-wee's Big Holiday",Movie,Netflix,6.1,90,2016,"Comedy, Family",9640
+tt0914376,"The Innocent Man","TV Mini Series",Netflix,7.3,45,2018,"Documentary, Crime",6898
+tt0993840,"Army of the Dead",Movie,Netflix,5.8,148,2021,"Action, Adventure, Crime, Drama, Horror, Sci-Fi, Thriller, War",197285
+tt10006006,"A Christmas Prince: The Royal Baby",Movie,Netflix,5.4,84,2019,"Family, Romance",8503
+tt10009170,"Blood of Zeus","TV Series",Netflix,7.5,30,2020,"Animation, Action, Adventure, Fantasy",27472
+tt10009796,"Kevin Hart: Irresponsible","TV Special",Netflix,6.6,60,2019,Comedy,5281
+tt10011298,"Dragon's Dogma","TV Series",Netflix,6.2,NULL,2020,"Animation, Action, Adventure, Drama, Fantasy, Horror, Sci-Fi",4487
+tt10011306,Spriggan,"TV Mini Series",Netflix,6.8,45,2022,"Animation, Action, Adventure, Sci-Fi",1843
+tt10011314,"Vampire in the Garden","TV Mini Series",Netflix,6.7,25,2022,"Animation, Action, Adventure, Drama, Fantasy, Horror, Mystery, Thriller",2070
+tt10018436,"Liss Pereira: Reteniendo Liquidos","TV Special",Netflix,6.3,59,2019,Comedy,119
+tt10027954,"Ricardo Quevedo: Los Amargados Somos Mas","TV Special",Netflix,7.2,58,2019,Comedy,125
+tt10027990,Persona,"TV Mini Series",Netflix,6.5,20,2019,"Drama, Thriller",1668
+tt10037034,Gentefied,"TV Series",Netflix,7.4,NULL,2020,Comedy,3193
+tt10044952,"You vs. Wild","TV Series",Netflix,6.6,20,2019,"Adventure, Reality-TV",2986
+tt10048342,"The Queen's Gambit","TV Mini Series",Netflix,8.5,60,2020,Drama,631696
+tt10049610,Followers,"TV Series",Netflix,6.3,40,2020,"Drama, Romance",714
+tt10050740,"Battle Kitty","TV Series",Netflix,6.1,30,2022,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",384
+tt10050752,"Mighty Little Bheem","TV Series",Netflix,6.5,6,2019,"Animation, Short, Adventure, Comedy, Family, Fantasy",341
+tt10050766,"BrenÃƒÂ© Brown: The Call to Courage",Movie,Netflix,7.7,76,2019,"Documentary, Drama",1899
+tt10050772,"I Think You Should Leave with Tim Robinson","TV Series",Netflix,8,16,2019,Comedy,24696
+tt10050778,"Street Food: Asia","TV Mini Series",Netflix,7.8,30,2019,Documentary,3378
+tt10050780,"Anthony Jeselnik: Fire in the Maternity Ward","TV Special",Netflix,7.2,64,2019,Comedy,4602
+tt10050782,"Grass is Greener",Movie,Netflix,7.1,97,2019,Documentary,1601
+tt10055028,"Dolphin Reef",Movie,Disney,7.4,77,2018,"Documentary, Family",1320
+tt10060094,"The Knight Before Christmas",Movie,Netflix,5.6,92,2019,"Adventure, Comedy, Drama, Fantasy, Romance",21678
+tt10062046,"Country Queen","TV Series",Netflix,5.1,60,2022,Drama,297
+tt10062292,"Never Have I Ever","TV Series",Netflix,7.8,30,2020,"Comedy, Drama",90293
+tt10062614,Guilty,Movie,Netflix,5.4,119,2020,"Drama, Thriller",4911
+tt10069398,"Home for Christmas","TV Series",Netflix,7.7,29,2019,"Comedy, Drama, Romance",17804
+tt10075318,"The Gift","TV Series",Netflix,6.9,40,2019,"Drama, Fantasy, Mystery, Romance",25327
+tt10085386,"Tiffany Haddish Presents: They Ready","TV Series",Netflix,6.7,NULL,2019,Comedy,622
+tt10087952,"Francesco de Carlo: Cose di Questo Mondo","TV Special",Netflix,6.4,61,2019,Comedy,131
+tt10087988,"Super Monsters Furever Friends","TV Movie",Netflix,5.5,58,2019,Animation,93
+tt10091530,"Holiday Rush",Movie,Netflix,5,92,2019,"Comedy, Drama, Family, Romance",3353
+tt10092752,"Earth and Blood",Movie,Netflix,5.2,80,2020,"Action, Drama, Thriller",3030
+tt10092764,Move,"TV Series",Netflix,7.3,NULL,2020,Documentary,157
+tt10098620,"Feel Good","TV Series",Netflix,7.5,NULL,2020,"Comedy, Drama, Romance",14687
+tt10101518,Curon,"TV Series",Netflix,5.9,NULL,2020,"Drama, Fantasy, Horror, Mystery, Thriller",4875
+tt10106108,"Seis Manos","TV Series",Netflix,7.1,27,2019,"Animation, Action, Adventure, Crime, Drama, Fantasy",2123
+tt10112282,"Human Playground","TV Series",Netflix,6.9,40,2022,Documentary,930
+tt10121392,"Thunder Force",Movie,Netflix,4.6,106,2021,"Action, Adventure, Comedy, Fantasy, Sci-Fi",47529
+tt10127684,"Rogue City",Movie,Netflix,6.1,116,2020,"Action, Crime, Drama, Thriller",10511
+tt10128616,"Franco Escamilla: Bienvenido al Mundo","TV Special",Netflix,7.1,54,2019,Comedy,320
+tt10136680,"After Maria",Short,Netflix,4.9,35,2019,"Documentary, Short",434
+tt10140028,Q-Force,"TV Series",Netflix,6.7,30,2021,"Animation, Action, Adventure, Comedy, Crime, Fantasy, Sci-Fi",6909
+tt10147520,"The Minions of Midas","TV Mini Series",Netflix,6.6,53,2020,"Crime, Drama, Thriller",4959
+tt10147546,"Homecoming: A Film by BeyoncÃƒÂ©",Movie,Netflix,7.6,137,2019,"Documentary, Music",8290
+tt10147644,"The Innocent","TV Mini Series",Netflix,7.8,60,2021,"Crime, Drama, Mystery, Thriller",41642
+tt10150694,"Arsenio Hall: Smart and Classy","TV Special",Netflix,6,63,2019,Comedy,492
+tt10151772,Sneakerheads,"TV Series",Netflix,6.1,NULL,2020,Comedy,1721
+tt10160804,Hawkeye,"TV Mini Series",Disney,7.4,60,2021,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",235284
+tt10160886,Sneakerella,Movie,Disney,4.9,112,2022,"Comedy, Family, Musical",2140
+tt1016150,"All Quiet on the Western Front",Movie,Netflix,7.8,148,2022,"Drama, History, War",282065
+tt10161886,"The Prom",Movie,Netflix,5.9,130,2020,"Comedy, Drama, Musical",30178
+tt10162496,"Prop Culture","TV Series",Disney,8,35,2020,"Documentary, Adventure, History",937
+tt10162586,"Marvel 616","TV Series",Disney,6.5,55,2020,"Documentary, Animation",739
+tt10163846,"Marvel's Hero Project","TV Series",Disney,6.7,30,2019,Documentary,182
+tt10166602,"Love, Victor","TV Series",Hulu,8,30,2020,"Comedy, Drama, Romance",23788
+tt10167262,"Lamp Life",Short,Disney,6.7,7,2020,"Animation, Short, Adventure, Comedy, Family, Fantasy",4766
+tt10167284,"Forky Asks a Question","TV Series",Disney,6.6,3,2019,"Animation, Short, Comedy, Family, Fantasy",2981
+tt10168312,"What If...?","TV Series",Disney,7.3,32,2021,"Animation, Action, Adventure, Sci-Fi",156284
+tt10168672,"The Players",Movie,Netflix,4.8,88,2020,Comedy,1969
+tt10183816,"Dangerous Lies",Movie,Netflix,5.4,96,2020,"Crime, Mystery, Thriller",19707
+tt10183912,"AlRawabi School for Girls","TV Mini Series",Netflix,7.1,24,2021,Drama,10537
+tt10183988,"Julie and the Phantoms","TV Series",Netflix,8.4,NULL,2020,"Adventure, Comedy, Drama, Family, Fantasy, Musical",13447
+tt10186846,"It's Bruno!","TV Series",Netflix,7.4,15,2019,"Short, Comedy",3431
+tt10193046,"Utopia Falls","TV Series",Hulu,5.3,60,2020,"Drama, Music, Sci-Fi",2161
+tt10196378,"Magic of Disney's Animal Kingdom","TV Series",Disney,8.2,40,2020,Documentary,546
+tt10196382,"Into the Unknown: Making Frozen 2","TV Mini Series",Disney,8.5,43,2020,"Documentary, Family",968
+tt10196390,"The World According to Jeff Goldblum","TV Series",Disney,7.6,30,2019,"Documentary, Comedy",3124
+tt10199590,"Les MisÃƒÂ©rables",Movie,Amazon,7.6,104,2019,"Crime, Drama, Thriller",29916
+tt10199914,"The Boys in the Band",Movie,Netflix,6.8,121,2020,Drama,19094
+tt10203880,"The Pentaverate","TV Mini Series",Netflix,6.1,27,2022,Comedy,12196
+tt10219416,"Be Our Chef","TV Series",Disney,6.5,25,2020,"Game-Show, Reality-TV",206
+tt10225100,"Rogue Trip","TV Series",Disney,7.2,40,2020,"Documentary, Adventure",214
+tt10225108,"Shop Class","TV Series",Disney,6.8,45,2020,"Adventure, Family, Game-Show",95
+tt10228032,"Legend Quest: Masters of Myth","TV Series",Netflix,7.2,NULL,2019,"Animation, Action, Comedy, Family, Fantasy",198
+tt10230404,"Ghost Stories",Movie,Netflix,4.4,144,2020,"Horror, Thriller",6171
+tt10230414,"Serious Men",Movie,Netflix,6.8,114,2020,"Comedy, Drama",8551
+tt10230422,"Class of '83",Movie,Netflix,5.8,98,2020,"Crime, Drama, Thriller",6148
+tt10230426,"Mrs. Serial Killer",Movie,Netflix,4,106,2020,"Crime, Drama, Thriller",19077
+tt10230436,"Yeh Ballet",Movie,Netflix,7.5,117,2020,"Drama, Musical",1604
+tt10230994,Beckett,Movie,Netflix,5.7,110,2021,"Action, Crime, Drama, Thriller",29952
+tt10231312,"Inside Job","TV Series",Netflix,7.7,30,2021,"Animation, Adventure, Comedy, Drama, Fantasy, Sci-Fi",35818
+tt10234724,"Moon Knight","TV Mini Series",Disney,7.3,50,2022,"Action, Adventure, Fantasy",299261
+tt10235600,"Kaali Khuhi",Movie,Netflix,3.7,90,2020,"Drama, Horror, Mystery, Thriller",1496
+tt10235688,"Doi Boy",Movie,Netflix,5.5,98,2023,"Drama, Romance, Thriller",832
+tt10238792,"Bombay Begums","TV Series",Netflix,5.1,50,2021,Drama,5151
+tt10241238,"Reality Z","TV Series",Netflix,5.6,NULL,2020,"Comedy, Horror",3133
+tt10241858,"Supa Team 4","TV Series",Netflix,6.7,27,2023,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",203
+tt10242216,"Saverio Raimondo: Il satiro parlante","TV Special",Netflix,5.9,53,2019,Comedy,59
+tt10242266,"Historia de un crimen: Colmenares","TV Mini Series",Netflix,7.2,NULL,2019,Crime,1107
+tt10242848,"Taco Chronicles","TV Series",Netflix,7.8,34,2019,Documentary,1017
+tt10243628,Jailbirds,"TV Series",Netflix,7,45,2019,Reality-TV,1434
+tt10243640,1994,"TV Series",Netflix,7.6,NULL,2019,"Documentary, History",631
+tt10243660,"A Tale of Two Kitchens",Short,Netflix,6.3,29,2019,"Documentary, Short",352
+tt10243672,Joy,Movie,Netflix,7.1,115,2024,"Biography, Drama, History",10580
+tt10243678,Chopsticks,Movie,Netflix,6.5,100,2019,"Comedy, Drama",5524
+tt10243692,"Killer Ratings","TV Series",Netflix,7.5,50,2019,"Documentary, Crime",2072
+tt10262630,Extracurricular,"TV Series",Netflix,7.6,50,2020,"Crime, Drama",11245
+tt10276470,"Work It",Movie,Netflix,6.1,93,2020,"Comedy, Music",17228
+tt10277516,"Ari EldjÃƒÂ¡rn: Pardon My Icelandic","TV Special",Netflix,7.8,54,2020,Comedy,1964
+tt10278918,Willow,"TV Series",Disney,5.7,NULL,2022,"Action, Adventure, Drama, Fantasy, Romance",34950
+tt10287954,"Rose Island",Movie,Netflix,7,117,2020,"Adventure, Biography, Comedy, Drama",26877
+tt10289996,"The Black Godfather",Movie,Netflix,7.5,118,2019,"Documentary, Biography",1599
+tt10291112,"Nisman. The Prosecutor, the President and the Spy","TV Mini Series",Netflix,7.5,NULL,2019,"Documentary, Crime, History, Thriller",680
+tt10293406,"The Power of the Dog",Movie,Netflix,6.8,126,2021,"Drama, Western",201984
+tt10293938,"Outer Banks","TV Series",Netflix,7.5,50,2020,"Action, Crime, Drama, Mystery, Romance, Thriller",99463
+tt10307440,"The Decline",Movie,Netflix,6,83,2020,"Action, Thriller",10360
+tt10307724,"Madame Claude",Movie,Netflix,5.5,112,2021,"Biography, Crime, Drama, Romance",4321
+tt10311562,#BlackAF,"TV Series",Netflix,6.8,36,2020,Comedy,5523
+tt10311932,"Someone Has to Die","TV Mini Series",Netflix,6.3,50,2020,"Crime, Drama, Thriller",6005
+tt10322274,Schumacher,Movie,Netflix,7.4,112,2021,"Documentary, Biography, Sport",26995
+tt10324122,"Secret Society of Second Born Royals",Movie,Disney,5,99,2020,"Action, Adventure, Comedy, Family, Fantasy",6789
+tt10324166,"Unbreakable Kimmy Schmidt: Kimmy vs the Reverend","TV Movie",Netflix,6.9,80,2020,"Adventure, Comedy, Mystery, Romance, Sci-Fi",6404
+tt10329566,"Ricos de Amor",Movie,Netflix,6,104,2020,"Comedy, Romance",3628
+tt10332256,"Hannah Gadsby: Douglas","TV Special",Netflix,7.6,72,2020,Comedy,4856
+tt10332588,"Finding 'Ohana",Movie,Netflix,6.1,123,2021,"Action, Adventure, Comedy, Family",12351
+tt1034007,"Alias Grace","TV Mini Series",Netflix,7.6,45,2017,"Biography, Crime, Drama, Thriller",40599
+tt1034415,Suspiria,Movie,Amazon,6.7,152,2018,"Drama, Fantasy, Horror, Mystery, Thriller",101425
+tt10350626,"Gunjan Saxena: The Kargil Girl",Movie,Netflix,5.5,112,2020,"Action, Biography, Drama, War",36056
+tt10359446,"The Chef Show","TV Series",Netflix,8.2,30,2019,Documentary,5815
+tt10370956,"Awake: The Million Dollar Game","TV Series",Netflix,6,41,2019,Game-Show,927
+tt10370958,"Super Monsters Monster Pets","TV Series",Netflix,6,NULL,2019,Animation,57
+tt10376068,"The Unauthorized Bash Brothers Experience",Short,Netflix,6.9,30,2019,"Short, Comedy, Music, Sport",5960
+tt10376844,"Adam Devine: Best Time of Our Lives","TV Special",Netflix,5.9,58,2019,Comedy,1075
+tt10376904,"Exhibit A","TV Series",Netflix,6.3,144,2019,"Documentary, Crime",1267
+tt10376958,"Mike Epps: Only One Mike","TV Special",Netflix,4.9,63,2019,Comedy,353
+tt10377036,"Jo Koy: Comin' in Hot","TV Special",Netflix,7.4,60,2019,Comedy,1487
+tt10380768,"Love Life","TV Series",HBO,7.5,35,2020,"Comedy, Romance",17672
+tt10380814,"Dino Girl Gauko","TV Series",Netflix,6.7,9,2019,"Animation, Comedy, Family, Fantasy, Sci-Fi",124
+tt10380896,"City of Ghosts","TV Series",Netflix,7.7,20,2021,"Animation, Adventure, Family, Fantasy",487
+tt10380934,"Ashley Garcia: Genius in Love","TV Series",Netflix,6.7,NULL,2020,Comedy,1800
+tt10394770,"Next in Fashion","TV Series",Netflix,7.3,50,2020,Reality-TV,5456
+tt10394790,"The Bravest Knight","TV Series",Hulu,6.1,12,2019,"Animation, Family",189
+tt10399810,"Tig N' Seek","TV Series",HBO,6.8,NULL,2020,"Animation, Adventure, Comedy, Family",172
+tt10399902,"Boy Swallows Universe","TV Mini Series",Netflix,7.9,60,2024,"Crime, Drama, Mystery",21384
+tt10404664,Zomboat!,"TV Series",Hulu,7,24,2019,"Comedy, Horror, Sci-Fi",2359
+tt10405394,"Designated Survivor: 60 Days","TV Series",Netflix,8,70,2019,"Drama, Thriller",2119
+tt10406826,"What the Love! with Karan Johar","TV Series",Netflix,3.7,NULL,2020,"Documentary, Reality-TV, Romance, Talk-Show",302
+tt10418662,Awake,Movie,Netflix,4.9,96,2021,"Action, Adventure, Drama, Horror, Sci-Fi, Thriller",28110
+tt10423460,"Family Business","TV Series",Netflix,7.4,NULL,2019,Comedy,5575
+tt10436228,"Jurassic World: Camp Cretaceous","TV Series",Netflix,7.5,24,2020,"Animation, Action, Adventure, Family",12866
+tt10438648,"Katherine Ryan: Glitter Room","TV Special",Netflix,6.8,65,2019,Comedy,2231
+tt10438652,"Daniel Sosa: Maleducado","TV Special",Netflix,6.4,54,2019,Comedy,83
+tt10442352,"Thelma the Unicorn",Movie,Netflix,5.7,93,2024,"Animation, Adventure, Comedy, Family, Fantasy, Musical",3155
+tt10451914,"Outside the Wire",Movie,Netflix,5.4,114,2021,"Action, Adventure, Fantasy, Sci-Fi",47423
+tt10456740,"Lost Bullet",Movie,Netflix,6.4,92,2020,"Action, Crime, Thriller",16255
+tt10466872,"Dune: Prophecy","TV Series",HBO,7.3,60,2024,"Action, Adventure, Drama, Sci-Fi",60464
+tt10473150,"Grand Army","TV Series",Netflix,7.5,NULL,2020,Drama,9790
+tt10477528,"The Naked Director","TV Series",Netflix,7.6,50,2019,"Biography, Drama",7339
+tt10482560,"Kipo and the Age of Wonderbeasts","TV Series",Netflix,8.3,24,2020,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",8165
+tt10484298,"Oprah Winfrey Presents: When They See Us Now","TV Special",Netflix,7.8,61,2019,Documentary,2483
+tt10485750,"The Pale Horse","TV Mini Series",Amazon,6.1,59,2020,"Crime, Drama, Mystery, Thriller",6917
+tt10487072,"Prank Encounters","TV Series",Netflix,5.3,24,2019,"Comedy, Horror, Reality-TV",3230
+tt10506510,"The Last Word","TV Series",Netflix,7.1,40,2020,"Comedy, Drama",1253
+tt10511826,"ParchÃƒÂ­s: The Documentary",Movie,Netflix,6.8,106,2019,Documentary,597
+tt10514222,"Ma Rainey's Black Bottom",Movie,Netflix,6.9,94,2020,"Drama, Music",59958
+tt10516352,"Love 101","TV Series",Netflix,7.4,40,2020,"Comedy, Drama, Romance",19050
+tt10516390,"Frankenstein's Monster's Monster, Frankenstein","TV Movie",Netflix,5.8,32,2019,Comedy,2553
+tt10516496,"Chip 'N' Dale: Park Life","TV Series",Disney,6.1,23,2021,"Animation, Adventure, Comedy, Family",592
+tt10516984,Anima,Short,Netflix,7.6,15,2019,"Short, Music",14172
+tt10521144,Nightbooks,Movie,Netflix,5.8,103,2021,"Family, Fantasy, Horror, Mystery",11185
+tt10521638,"Whitney Cummings: Can I Touch It?","TV Special",Netflix,6.5,59,2019,Comedy,2040
+tt10521644,"Extreme Engagement","TV Series",Netflix,5.7,NULL,2019,Reality-TV,418
+tt10522374,"True Tunes","TV Series",Netflix,7.7,NULL,2019,Family,18
+tt10530176,"The Call",Movie,Netflix,7.1,112,2020,"Crime, Horror, Mystery, Sci-Fi, Thriller",50082
+tt10539608,"The Midnight Sky",Movie,Netflix,5.7,118,2020,"Adventure, Drama, Sci-Fi, Thriller",92393
+tt10540242,"The Main Event",Movie,Netflix,4.8,101,2020,"Action, Comedy, Family, Fantasy, Sport",2881
+tt10540276,"Snabba Cash","TV Series",Netflix,7.6,52,2021,"Action, Crime, Drama, Thriller",13635
+tt10540562,"The Healing Powers of Dude","TV Series",Netflix,6.6,25,2020,"Action, Adventure, Comedy, Drama, Family, Fantasy",1272
+tt10543680,"Ginny Weds Sunny",Movie,Netflix,5.7,125,2020,"Comedy, Drama, Romance",5881
+tt10545250,Eden,"TV Mini Series",Netflix,6.6,25,2021,"Animation, Action, Adventure, Drama, Sci-Fi",1598
+tt10551256,"Age of Samurai: Battle for Japan","TV Mini Series",Netflix,7.4,44,2021,"Documentary, Action, Adventure, Drama, History, War",5614
+tt10556022,Unpregnant,Movie,HBO,6.5,103,2020,"Comedy, Drama",10714
+tt10574236,"Station Eleven","TV Mini Series",HBO,7.6,51,2021,"Adventure, Drama, Fantasy, Mystery, Sci-Fi, Thriller",40409
+tt10574558,"Midnight Mass","TV Mini Series",Netflix,7.7,60,2021,"Drama, Fantasy, Horror, Mystery",160979
+tt10575038,"Aziz Ansari: Right Now","TV Special",Netflix,7.5,65,2019,Comedy,5503
+tt10584608,"Teenage Bounty Hunters","TV Series",Netflix,7.6,50,2020,"Comedy, Crime, Drama",15403
+tt10589914,"The Forest of Love",Movie,Netflix,6.2,151,2019,"Crime, Drama, Horror, Thriller",3140
+tt10600398,"We Can Be Heroes",Movie,Netflix,4.7,100,2020,"Animation, Action, Comedy, Drama, Family, Fantasy, Sci-Fi",18833
+tt10611608,"The Cuphead Show!","TV Series",Netflix,7.4,12,2022,"Animation, Short, Action, Adventure, Comedy, Crime, Family, Fantasy, Musical",11234
+tt10613308,"The Hall: Honoring the Greats of Stand-Up","TV Special",Netflix,6.4,70,2022,Comedy,630
+tt10618286,Mank,Movie,Netflix,6.8,131,2020,"Biography, Drama",86208
+tt10619444,Levius,"TV Mini Series",Netflix,6.9,25,2019,"Animation, Action, Sci-Fi",732
+tt10619486,Zero,"TV Series",Netflix,5.8,27,2021,"Action, Comedy, Drama, Fantasy, Sci-Fi",1595
+tt10625492,"Twilight of the Gods","TV Series",Netflix,7.3,30,2024,"Animation, Action, Adventure, Fantasy, Mystery",10001
+tt10627548,"Christmas on the Square",Movie,Netflix,5.2,98,2020,"Comedy, Family, Musical",3244
+tt10627584,"The Life Ahead",Movie,Netflix,6.8,94,2020,Drama,16101
+tt10638036,Heartstopper,"TV Series",Netflix,8.5,30,2022,"Drama, Romance",88755
+tt10642834,"The Forty-Year-Old Version",Movie,Netflix,7.2,123,2020,"Comedy, Drama",5707
+tt10643918,"Crazy Awesome Teachers",Movie,Netflix,6.2,101,2020,"Comedy, Crime, Drama",590
+tt10649016,Safety,Movie,Disney,6.8,122,2020,"Biography, Drama, Sport",5264
+tt10650772,"The Fungies","TV Series",HBO,6.5,11,2020,"Animation, Adventure, Comedy, Family, Fantasy",238
+tt10651790,Betaal,"TV Series",Netflix,5.4,46,2020,Horror,9960
+tt10655506,"Masaba Masaba","TV Series",Netflix,6.7,50,2020,"Comedy, Drama",2369
+tt10656112,"Whindersson Nunes: Adulto","TV Special",Netflix,7.1,68,2019,Comedy,467
+tt10661848,"Jagame Thandhiram",Movie,Netflix,5.8,158,2021,"Action, Crime, Drama, Thriller",12908
+tt10662450,"Enter the Anime",Movie,Netflix,2.6,58,2019,Documentary,1894
+tt10675488,"Astronomy Club","TV Series",Netflix,7,20,2019,Comedy,674
+tt10676012,"To All the Boys: Always and Forever",Movie,Netflix,6.3,116,2021,"Comedy, Drama, Romance",37600
+tt10681222,"The Movies That Made Us","TV Series",Netflix,7.6,45,2019,Documentary,7526
+tt10681670,"Breakfast, Lunch & Dinner","TV Series",Netflix,6.7,43,2019,Documentary,1203
+tt10682000,"Sound & Fury",Short,Netflix,6.4,41,2019,"Animation, Short, Music, Sci-Fi",2163
+tt10682266,"Hubie Halloween",Movie,Netflix,5.3,103,2020,"Comedy, Horror, Mystery",64708
+tt10686814,"Terrace House: Tokyo 2019-2020","TV Series",Netflix,7.4,40,2019,"Drama, Reality-TV",863
+tt10687116,Entergalactic,Movie,Netflix,7.3,93,2022,"Animation, Comedy, Music, Romance",18850
+tt10687134,"Dragons: Rescue Riders","TV Series",Netflix,5.9,24,2019,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery",473
+tt10687170,"Hello Ninja","TV Series",Netflix,5.7,11,2019,"Animation, Action, Adventure, Comedy, Family, Fantasy",187
+tt10687184,StarBeam,"TV Series",Netflix,7,NULL,2020,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",123
+tt10687202,"Go, Dog. Go!","TV Series",Netflix,7.1,24,2021,"Animation, Family",324
+tt10687266,"Izzy's Koala World","TV Series",Netflix,8,NULL,2020,"Documentary, Family",290
+tt10687464,"Emily's Wonder Lab","TV Series",Netflix,8.6,NULL,2020,"Family, Talk-Show",261
+tt10687564,Dollar,"TV Series",Netflix,6.6,NULL,2019,"Action, Drama, Romance",681
+tt10687624,"Spirit Riding Free: Pony Tales","TV Series",Netflix,5.9,NULL,2017,"Animation, Comedy, Drama, Family, Western",139
+tt10687642,"Simon Amstell: Set Free","TV Special",Netflix,6.5,51,2019,Comedy,924
+tt10696784,"The Harder They Fall",Movie,Netflix,6.6,139,2021,"Action, Drama, Western",75457
+tt10698408,"Basketball or Nothing","TV Series",Netflix,7.3,NULL,2019,"Documentary, Sport",747
+tt1070874,"The Trial of the Chicago 7",Movie,Netflix,7.7,129,2020,"Drama, History, Thriller",201813
+tt10714856,"Feel the Beat",Movie,Netflix,6.3,109,2020,"Comedy, Drama, Family",14612
+tt10715148,"The Family","TV Mini Series",Netflix,6.4,50,2019,"Documentary, Mystery",4215
+tt10715194,"Back to School",Movie,Netflix,5.3,83,2019,Comedy,1478
+tt10715202,"Styling Hollywood","TV Series",Netflix,6.5,NULL,2019,Reality-TV,415
+tt10726356,"The Big Show Show","TV Series",Netflix,6.3,27,2020,"Comedy, Family",2991
+tt10727696,Semi-Soeter,Movie,Netflix,4.6,92,2025,Comedy,232
+tt10728764,"Nobody Knows I'm Here",Movie,Netflix,6.5,91,2020,"Drama, Music",5140
+tt10731748,"Airplane Mode",Movie,Netflix,5.2,96,2020,"Comedy, Drama, Family, Romance",3166
+tt10731768,"Sweet Girl",Movie,Netflix,5.5,110,2021,"Action, Drama, Thriller",37231
+tt10746342,"Our Planet: Behind the Scenes","TV Movie",Netflix,8.3,63,2019,Documentary,2019
+tt10752004,"Love Hard",Movie,Netflix,6.3,104,2021,"Comedy, Romance",66199
+tt10753590,"Happy Jail","TV Series",Netflix,6.9,NULL,2019,Documentary,288
+tt10763820,"Night Teeth",Movie,Netflix,5.7,107,2021,"Action, Crime, Drama, Fantasy, Horror, Thriller",23487
+tt10767748,"Tiny Pretty Things","TV Series",Netflix,5.9,60,2020,"Drama, Mystery, Romance, Thriller",11129
+tt10795658,"Alice in Borderland","TV Series",Netflix,7.8,50,2020,"Action, Drama, Horror, Mystery, Sci-Fi, Thriller",126525
+tt10795784,"Leslie Jones: Time Machine","TV Special",Netflix,5.4,66,2020,Comedy,1043
+tt10798934,"Natalie Palamides: Nate - A One Man Show","TV Special",Netflix,6.7,59,2020,Comedy,440
+tt10810424,"Dave Chappelle: Sticks & Stones","TV Special",Netflix,8.3,65,2019,Comedy,28653
+tt10810430,"The Mind, Explained","TV Series",Netflix,7.9,20,2019,Documentary,6313
+tt10813940,"Ginny & Georgia","TV Series",Netflix,7.5,NULL,2021,"Comedy, Drama",101389
+tt10814036,"Agent Elvis","TV Series",Netflix,6.8,30,2023,"Animation, Action, Comedy, Crime, Thriller",2808
+tt1082583,"The Dangerous Book for Boys","TV Series",Amazon,5.8,30,2018,"Adventure, Comedy, Drama, Family",531
+tt10826054,"Masters of the Universe: Revelation","TV Series",Netflix,5.6,25,2021,"Animation, Action, Adventure, Family, Fantasy, Sci-Fi",29157
+tt10833132,"The Club","TV Series",Netflix,6.2,30,2019,"Comedy, Drama",1050
+tt10834220,"The Chestnut Man","TV Series",Netflix,7.6,60,2021,"Crime, Drama, Mystery, Thriller",60629
+tt10834478,"Get Organized with the Home Edit","TV Series",Netflix,5.6,30,2020,Reality-TV,1917
+tt10837476,"Inside Bill's Brain: Decoding Bill Gates","TV Mini Series",Netflix,7.8,50,2019,"Documentary, Biography",11991
+tt10839422,Sex/Life,"TV Series",Netflix,5.6,45,2021,"Comedy, Drama, Romance",33398
+tt10847138,"Hello, Privilege. It's Me, Chelsea","TV Movie",Netflix,4.9,64,2019,Documentary,2222
+tt10847194,"Jeff Dunham: Beside Himself","TV Special",Netflix,6.9,58,2019,Comedy,1397
+tt10847306,"Bill Burr: Paper Tiger","TV Special",Netflix,8,67,2019,Comedy,13189
+tt10847330,"Mo Gilligan: Momentum","TV Special",Netflix,6.4,64,2019,Comedy,511
+tt10851618,"Rising Phoenix",Movie,Netflix,8.1,105,2020,"Documentary, Sport",1923
+tt10854760,"One Day at Disney","TV Series",Disney,7.3,5,2019,Documentary,646
+tt10855726,"Pick of the Litter","TV Mini Series",Disney,8,35,2019,"Documentary, Family",185
+tt10856726,"Travis Scott: Look Mom I Can Fly",Movie,Netflix,6.3,84,2019,"Documentary, Music",5794
+tt10857160,"She-Hulk: Attorney at Law","TV Mini Series",Disney,5.2,35,2022,"Action, Adventure, Comedy, Sci-Fi",204151
+tt10857164,"Ms. Marvel","TV Mini Series",Disney,6.2,50,2022,"Action, Adventure, Comedy, Crime, Family, Fantasy, Mystery, Sci-Fi",128141
+tt10857210,"Muppets Now","TV Series",Disney,5.9,23,2020,"Comedy, Family, Reality-TV",1430
+tt10857582,"Los Tigres del Norte at Folsom Prison","TV Special",Netflix,7.1,64,2019,"Documentary, Music",212
+tt10875696,Marianne,"TV Series",Netflix,7.3,50,2019,"Drama, Horror, Mystery, Thriller",20847
+tt10883004,"Bikram: Yogi, Guru, Predator",Movie,Netflix,6.7,86,2019,"Documentary, Crime",8664
+tt10888708,"The Sleepover",Movie,Netflix,5.7,100,2020,"Action, Adventure, Comedy, Family",12885
+tt10888876,"Love & Anarchy","TV Series",Netflix,7.3,30,2020,"Comedy, Drama, Romance",12952
+tt10888878,Clickbait,"TV Mini Series",Netflix,7.2,50,2021,"Crime, Drama, Mystery, Thriller",65881
+tt10893694,"The Irregulars","TV Series",Netflix,6.1,NULL,2021,"Crime, Drama, Fantasy, Mystery",18192
+tt10895588,"Nowhere Man","TV Series",Netflix,5.7,NULL,2019,"Action, Crime, Drama, Thriller",468
+tt10907798,Birders,Short,Netflix,6.4,37,2019,"Documentary, Short",403
+tt10914452,"The Binding",Movie,Netflix,4.8,93,2020,"Drama, Horror, Thriller",5109
+tt10915060,"The Crimes That Bind",Movie,Netflix,6.7,99,2020,"Crime, Drama, Thriller",4808
+tt10915286,"Tell Me Who I Am",Movie,Netflix,7.6,86,2019,"Documentary, Drama, Mystery",18850
+tt10919290,Centaurworld,"TV Series",Netflix,7.6,25,2021,"Animation, Adventure, Comedy, Family, Fantasy, Musical",3102
+tt10919294,Singletown,"TV Series",HBO,5.8,NULL,2019,"Reality-TV, Romance",62
+tt10919420,"Squid Game","TV Series",Netflix,8,60,2021,"Action, Crime, Drama, Mystery, Thriller",716171
+tt10919486,"Into the Night","TV Series",Netflix,7,35,2020,"Drama, Sci-Fi, Thriller",38230
+tt10924716,"The Crystal Calls - Making the Dark Crystal: Age of Resistance",Movie,Netflix,7.5,82,2019,Documentary,604
+tt10927068,"Park Na-rae: Glamour Warning","TV Special",Netflix,5,62,2019,Comedy,82
+tt10930958,"Brews Brothers","TV Series",Netflix,5.2,NULL,2020,"Comedy, Drama",2210
+tt10937318,"American Factory: A Conversation with the Obamas",Short,Netflix,5.1,10,2019,"Documentary, Short",341
+tt10937434,Ultras,Movie,Netflix,6.2,108,2020,Drama,5732
+tt10941528,"Under the Riccione Sun",Movie,Netflix,5.6,101,2020,"Comedy, Drama, Romance",3436
+tt10945036,"The Upshaws","TV Series",Netflix,7,30,2021,Comedy,4673
+tt10945060,"The Spooky Tale of Captain Underpants Hack-a-Ween","TV Special",Netflix,5.8,45,2019,"Animation, Short, Action, Adventure, Comedy, Family",363
+tt10946934,"Como CaÃƒÂ­do Del Cielo",Movie,Netflix,6.5,112,2019,"Comedy, Drama, Musical, Romance",1683
+tt10948716,"Inside Man","TV Series",Netflix,6.7,NULL,2022,"Crime, Drama, Mystery, Thriller",40792
+tt10952752,"Nikki Glaser: Bangin'","TV Special",Netflix,6.2,63,2019,Comedy,2099
+tt10958282,"Street Flow",Movie,Netflix,6.4,96,2019,"Crime, Drama",2110
+tt10962368,"Things Heard & Seen",Movie,Netflix,5.3,121,2021,"Drama, Horror, Mystery, Thriller",39034
+tt10965252,"Martin Matte: La vie, la mort... eh la la..!","TV Special",Netflix,6.7,61,2019,Comedy,127
+tt10970552,"The Haunting of Bly Manor","TV Mini Series",Netflix,7.4,60,2020,"Drama, Horror, Mystery, Thriller",139486
+tt10971022,"The Crew","TV Series",Netflix,6.5,NULL,2021,Comedy,6753
+tt10971520,"Jenny Slate: Stage Fright","TV Special",Netflix,5.9,66,2019,Comedy,1494
+tt10971532,"Queer Eye: We're in Japan!","TV Series",Netflix,8.2,50,2019,Reality-TV,2855
+tt10973800,Equinox,"TV Series",Netflix,6.1,43,2020,"Drama, Fantasy, Mystery, Thriller",8483
+tt10977486,"Living Undocumented","TV Series",Netflix,7.2,45,2019,Documentary,661
+tt10977680,"Deon Cole: Cole Hearted","TV Special",Netflix,7,69,2019,Comedy,1057
+tt10981666,"Nailed It! Spain","TV Series",Netflix,5.6,NULL,2019,Reality-TV,104
+tt10986050,"Criminal: Spain","TV Mini Series",Netflix,6.9,40,2019,"Crime, Drama, Mystery",5036
+tt10986052,"Criminal: France","TV Mini Series",Netflix,7.2,39,2019,"Crime, Drama, Mystery",4945
+tt10986056,"Criminal: Germany","TV Mini Series",Netflix,7.6,59,2019,"Crime, Drama, Mystery",6252
+tt10987498,"Mighty Little Bheem: Diwali","TV Series",Netflix,7.1,NULL,2019,Animation,49
+tt10990804,"Nailed It! France","TV Series",Netflix,6.4,NULL,2019,Reality-TV,135
+tt11000894,"Ben Platt Live from Radio City Music Hall","TV Special",Netflix,8.3,85,2020,Music,561
+tt11010144,"Seriously Single",Movie,Netflix,4.6,107,2020,"Comedy, Romance",1392
+tt11012066,"Home Sweet Home Alone",Movie,Disney,3.6,93,2021,"Comedy, Crime, Family",22112
+tt11015214,"Class Action Park",Movie,HBO,7,90,2020,"Documentary, Crime",8702
+tt11016042,Ripley,"TV Mini Series",Netflix,8.1,60,2024,"Crime, Drama, Thriller",63460
+tt11024272,"The Babysitter: Killer Queen",Movie,Netflix,5.8,101,2020,"Comedy, Horror",57247
+tt11027830,"Haseen Dillruba",Movie,Netflix,6.9,135,2021,"Crime, Drama, Mystery, Romance, Thriller",33911
+tt11031770,"The Not Too Late Show with Elmo","TV Series",HBO,7.3,15,2020,"Short, Comedy, Family, Music, Talk-Show",167
+tt11032990,"Malibu Rescue: The Next Wave",Movie,Netflix,5,68,2020,Family,1133
+tt11048090,Legendary,"TV Series",HBO,8.1,50,2020,Reality-TV,2095
+tt11052346,"It Takes a Lunatic",Movie,Netflix,6.7,126,2019,"Documentary, Biography, Drama",210
+tt11052470,"Move to Heaven","TV Mini Series",Netflix,8.5,60,2021,Drama,11798
+tt11053220,"We Are the Wave","TV Series",Netflix,6.3,50,2019,Drama,3297
+tt11053426,"Life in Colour","TV Mini Series",Netflix,8.2,50,2021,Documentary,4334
+tt11057594,"Fatal Affair",Movie,Netflix,4.6,89,2020,"Crime, Horror, Mystery, Thriller",7167
+tt11057644,"The Christmas Chronicles: Part Two",Movie,Netflix,6,112,2020,"Adventure, Comedy, Family, Fantasy",38737
+tt11058644,"My Holo Love","TV Mini Series",Netflix,7.6,55,2020,"Comedy, Drama, Romance, Sci-Fi",4311
+tt11063952,"Unnatural Selection","TV Series",Netflix,7.8,60,2019,Documentary,2281
+tt11064862,"Sitara: Let Girls Dream",Short,Netflix,7.1,15,2019,"Animation, Short, Drama",1021
+tt11066130,Upstarts,Movie,Netflix,6.7,112,2019,Drama,987
+tt11066396,"Grego Rossello: Disculpe Las Molestias","TV Special",Netflix,5.3,65,2019,Comedy,34
+tt11069436,"Behind the Attraction","TV Series",Disney,7.6,58,2021,"Documentary, History",1365
+tt11076876,"The Dog House","TV Series",HBO,8.7,60,2019,Documentary,543
+tt11092086,"The Iliza Shlesinger Sketch Show","TV Series",Netflix,5.1,NULL,2020,Comedy,1094
+tt11092142,"Human Resources","TV Series",Netflix,7.1,30,2022,"Animation, Comedy, Romance",11743
+tt11092178,"The Snow Sister",Movie,Netflix,7,96,2024,"Drama, Family",2195
+tt11094566,Craftopia,"TV Series",HBO,7.1,NULL,2020,Game-Show,79
+tt11097240,Obliterated,"TV Series",Netflix,6.8,NULL,2023,"Action, Comedy, Drama",23287
+tt11097384,Spaceman,Movie,Netflix,5.7,107,2024,"Adventure, Drama, Romance, Sci-Fi",44833
+tt11097576,"On Pointe","TV Series",Disney,7.9,50,2020,Documentary,465
+tt11100856,"Love, Guaranteed",Movie,Netflix,5.6,90,2020,"Comedy, Romance",19948
+tt11101698,"Dancing with the Birds",Movie,Netflix,8.2,52,2019,Documentary,3006
+tt11102190,Katla,"TV Series",Netflix,7,NULL,2021,"Drama, Fantasy, Mystery, Sci-Fi, Thriller",18433
+tt11102314,Tribhanga,Movie,Netflix,6.3,95,2021,"Drama, Family",4180
+tt11108064,"Jeff Garlin: Our Man in Chicago","TV Special",Netflix,5.9,58,2019,Comedy,478
+tt11112784,"Perfect Strangers",Movie,Netflix,5.8,99,2022,"Comedy, Drama, Romance",5657
+tt11116912,Troll,Movie,Netflix,5.8,101,2022,"Action, Adventure, Drama, Fantasy, Thriller",52693
+tt11120674,Unstoppable,"TV Mini Series",Netflix,7.1,43,2020,"Comedy, Drama",1203
+tt11126994,Arcane,"TV Series",Netflix,9,40,2021,"Animation, Action, Adventure, Drama, Fantasy, Sci-Fi",411190
+tt11127056,"Fire in Paradise",Short,Netflix,7.3,39,2019,"Documentary, Short",1642
+tt11127690,"The Paramedic",Movie,Netflix,5.7,94,2020,"Crime, Drama, Thriller",15813
+tt11127698,Karma,"TV Series",HBO,7.2,NULL,2020,"Adventure, Game-Show",81
+tt11131962,"Kissing Game","TV Series",Netflix,6.1,NULL,2020,"Drama, Mystery, Thriller",970
+tt11131980,"Nobody's Looking","TV Series",Netflix,7.7,26,2019,"Comedy, Drama, Fantasy",2656
+tt11133480,"Mauricio Meirelles: Generating Chaos","TV Special",Netflix,6.7,63,2020,Comedy,160
+tt11142762,Pagglait,Movie,Netflix,6.9,114,2021,"Comedy, Drama",11174
+tt11146690,Wolfgang,Movie,Disney,6.9,78,2021,"Documentary, Biography",471
+tt11150912,"Jamtara: Sabka Number Ayega","TV Series",Netflix,7.3,29,2020,Crime,10448
+tt11151792,"The Road to El Camino: Behind the Scenes of El Camino: A Breaking Bad Movie","TV Short",Netflix,7.1,13,2019,"Documentary, Short",1671
+tt11156614,"Dead Kids",Movie,Netflix,5.4,98,2019,"Drama, Thriller",704
+tt11161474,"Pieces of a Woman",Movie,Netflix,7,126,2020,Drama,58921
+tt11162974,"Go! The Unforgettable Party",Movie,Netflix,5.5,60,2019,Family,250
+tt11162992,"Lorena, Light-footed Woman",Short,Netflix,7,28,2019,"Documentary, Short, Sport",1084
+tt11163008,"Iliza Shlesinger: Unveiled","TV Special",Netflix,6.5,78,2019,Comedy,2057
+tt11163014,"Mike Birbiglia: The New One","TV Special",Netflix,7.7,85,2019,Comedy,2365
+tt11163028,"House Arrest",Movie,Netflix,5.5,104,2019,Comedy,1875
+tt11163352,"The Disastrous Life of Saiki K.: Reawakened","TV Series",Netflix,7.8,NULL,2019,"Animation, Comedy",2812
+tt11165002,"The Devil Next Door","TV Mini Series",Netflix,7.5,45,2019,"Documentary, Crime, History",15886
+tt11165358,"Adventure Time: Distant Lands","TV Mini Series",HBO,8.6,42,2020,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Musical, Sci-Fi",9405
+tt11168100,"Seth Meyers: Lobby Baby","TV Special",Netflix,7.5,61,2019,Comedy,3105
+tt11168104,"Maradona in Mexico","TV Mini Series",Netflix,7.2,NULL,2019,"Documentary, Comedy, Drama, Reality-TV, Sport",1264
+tt11168116,"Sugar Rush Christmas","TV Series",Netflix,6.9,NULL,2019,Reality-TV,759
+tt11168150,"Fadily Camara: La plus drÃƒÂ´le de tes copines","TV Movie",Netflix,5.9,54,2019,Comedy,63
+tt11168226,Broken,"TV Series",Netflix,6.9,NULL,2019,Documentary,1379
+tt11168604,"Anxious People","TV Mini Series",Netflix,6.8,29,2021,"Comedy, Crime, Drama, Mystery",5337
+tt11176048,"Earth to Ned","TV Series",Disney,6.6,30,2020,"Comedy, Sci-Fi, Talk-Show",459
+tt11177308,"Tom Papa: You're Doing Great!","TV Special",Netflix,7.2,60,2020,Comedy,1109
+tt11178402,"Mickey: The Story of a Mouse",Movie,Disney,6.9,89,2022,"Documentary, Biography",1076
+tt11188392,"Expecting Amy","TV Mini Series",HBO,7.1,NULL,2020,"Documentary, Comedy",955
+tt11193888,"A Family Reunion Christmas","TV Movie",Netflix,5.8,28,2019,"Comedy, Family",345
+tt11194006,"The New Adventures of Oggy","TV Series",Netflix,6.3,22,2021,"Animation, Adventure, Comedy, Family",105
+tt11194508,"Singapore Social","TV Series",Netflix,4.5,44,2019,Reality-TV,1456
+tt11194518,"Zona Rosa","TV Series",Netflix,5.5,NULL,2019,Comedy,74
+tt11199410,"The Princess Switch: Switched Again",Movie,Netflix,5.4,96,2020,"Comedy, Drama, Family, Romance",14636
+tt11199552,"Disney Family Sundays","TV Series",Disney,6.4,8,2019,"Family, Reality-TV",63
+tt11199558,"Pixar in Real Life","TV Series",Disney,6.4,4,2019,"Comedy, Family, Reality-TV",980
+tt11203896,"Vice Investigates","TV Series",Hulu,7.1,NULL,2019,Documentary,109
+tt11213372,"Stuck Apart",Movie,Netflix,6,96,2021,"Comedy, Drama",11722
+tt11213600,"Sardar Ka Grandson",Movie,Netflix,4.3,139,2021,"Comedy, Drama, Romance",5130
+tt11215112,"Narcoworld: Dope Stories","TV Series",Netflix,6.5,39,2019,"Documentary, Crime",416
+tt11215130,"No Time for Shame","TV Mini Series",Netflix,5.6,NULL,2019,Reality-TV,101
+tt11215186,"Lugar de Mulher","TV Series",Netflix,4.7,NULL,2019,Comedy,55
+tt11224358,"Pray Away",Movie,Netflix,6.5,101,2021,Documentary,3791
+tt11226258,"Playing with Sharks: The Valerie Taylor Story",Movie,Disney,7.5,95,2021,"Documentary, Adventure",705
+tt11233960,"The Unforgivable",Movie,Netflix,7.1,112,2021,"Crime, Drama, Mystery",125127
+tt11238096,"Big Shot","TV Series",Disney,7.4,NULL,2021,"Comedy, Drama, Sport",5892
+tt11240506,"Nobody Sleeps in the Woods Tonight",Movie,Netflix,4.9,102,2020,"Fantasy, Horror, Mystery",15411
+tt11241096,"The Big Fib","TV Series",Disney,6,25,2020,Game-Show,108
+tt11242162,Rise,Movie,Disney,7,113,2022,"Biography, Drama, Sport",8869
+tt11243536,"Holiday Secrets","TV Mini Series",Netflix,6.5,NULL,2019,Drama,1365
+tt11248800,"Ronny Chieng: Asian Comedian Destroys America","TV Special",Netflix,7.4,63,2019,Comedy,3876
+tt11252254,"From Scratch","TV Mini Series",Netflix,7.9,53,2022,"Drama, Romance",19144
+tt11262142,Bandidos,"TV Series",Netflix,6.6,45,2024,"Action, Adventure, Crime, Drama, Mystery, Thriller",4273
+tt11262978,"Amit Tandon: Family Tandoncies","TV Special",Netflix,7.2,72,2019,Comedy,295
+tt11269026,"Mother's Love",Movie,Netflix,5.8,110,2022,Comedy,4035
+tt11269704,"Michelle Wolf: Joke Show","TV Special",Netflix,7.3,59,2019,Comedy,1947
+tt11269714,"Who Killed Little Gregory?","TV Mini Series",Netflix,7.4,60,2019,"Documentary, Crime",3463
+tt11269886,Summertime,"TV Series",Netflix,6.1,40,2020,"Drama, Romance",3305
+tt11271990,"Ali & the Queens",Movie,Netflix,7,100,2021,"Comedy, Drama",1746
+tt11274492,"The Out-Laws",Movie,Netflix,5.4,95,2023,"Action, Comedy, Crime, Romance",40218
+tt11278476,"Rescued by Ruby",Movie,Netflix,7.2,90,2022,"Biography, Drama, Family",12631
+tt11284280,Cadaver,Movie,Netflix,5.2,86,2020,"Drama, Horror, Thriller",13159
+tt11286314,"Don't Look Up",Movie,Netflix,7.2,138,2021,"Comedy, Drama, Sci-Fi",648871
+tt11301642,Ethos,"TV Series",Netflix,8.4,45,2020,Drama,31158
+tt11301834,"Crazy Delicious","TV Series",Netflix,6.7,NULL,2020,"Documentary, Game-Show",1230
+tt11301886,"Rebel Ridge",Movie,Netflix,6.8,131,2024,"Action, Crime, Drama, Thriller",95201
+tt11306932,Noise,Movie,Netflix,6.6,105,2022,Drama,1297
+tt11307176,"The Confession Killer","TV Mini Series",Netflix,7.4,50,2019,"Documentary, Crime",10920
+tt11307814,"Red Dot",Movie,Netflix,5.5,86,2021,"Drama, Horror, Thriller",15511
+tt11310004,"The First Temptation of Christ",Movie,Netflix,5,46,2019,Comedy,3597
+tt11311302,"Vikings: Valhalla","TV Series",Netflix,7.4,45,2022,"Action, Adventure, Drama, History, Romance, War",68430
+tt11313054,"Kevin Hart: Don't F**k This Up","TV Series",Netflix,6.5,30,2019,"Documentary, Biography",2212
+tt11313076,"Jack Whitehall: Christmas with My Father","TV Special",Netflix,6,64,2019,"Documentary, Comedy",1135
+tt11313944,"Layla Majnun",Movie,Netflix,6.1,119,2021,"Drama, Romance",340
+tt11316680,"Trees of Peace",Movie,Netflix,6.6,97,2021,Drama,2004
+tt11318602,"Don't F**k with Cats: Hunting an Internet Killer","TV Mini Series",Netflix,8,60,2019,"Documentary, Crime, Mystery",67077
+tt11318624,"John Mulaney & the Sack Lunch Bunch","TV Movie",Netflix,7.3,70,2019,"Comedy, Family, Musical",4179
+tt11324024,"After the Raid",Short,Netflix,4.7,24,2019,"Documentary, Short",158
+tt11332750,"Alien Xmas","TV Special",Netflix,6.2,40,2020,"Animation, Short, Adventure, Comedy, Family, Fantasy, Sci-Fi",1741
+tt11332850,"Robin Robin",Short,Netflix,7,32,2021,"Animation, Short, Adventure, Comedy, Family, Musical",7358
+tt11337908,Maid,"TV Mini Series",Netflix,8.3,60,2021,Drama,114876
+tt11343600,"Brand New Cherry Flavor","TV Mini Series",Netflix,7.1,43,2021,"Drama, Horror, Mystery, Thriller",20966
+tt11353562,"The Irishman: In Conversation",Short,Netflix,7.4,23,2019,"Documentary, Short",2041
+tt11363540,"This Is Not a Comedy",Movie,Netflix,5.1,105,2021,"Comedy, Drama",421
+tt11364112,Beauty,Movie,Netflix,4.2,95,2022,"Drama, Romance",910
+tt1136617,"The Killer",Movie,Netflix,6.7,118,2023,"Action, Adventure, Crime, Drama, Thriller",215031
+tt11378264,"Mucho Mucho Amor: The Legend of Walter Mercado",Movie,Netflix,7.3,96,2020,"Documentary, Biography",3562
+tt11384300,Furies,"TV Series",Netflix,6.3,45,2024,"Action, Crime, Drama",3995
+tt11385066,"The App",Movie,Netflix,2.8,78,2019,"Drama, Sci-Fi, Thriller",1479
+tt11388278,"A Week Away",Movie,Netflix,5.8,94,2021,"Drama, Family, Musical",5851
+tt11388406,"Horse Girl",Movie,Netflix,6,103,2020,"Drama, Mystery, Thriller",21503
+tt11388580,"Miss Americana",Movie,Netflix,7.4,85,2020,"Documentary, Biography, Drama, Music",26166
+tt11390036,"A Fall from Grace",Movie,Netflix,5.9,120,2020,"Crime, Drama, Mystery, Thriller",18315
+tt11390530,"Sex, Explained","TV Mini Series",Netflix,6.9,20,2020,Documentary,3663
+tt11394180,"Dick Johnson Is Dead",Movie,Netflix,7.4,89,2020,"Documentary, Biography, Drama",7527
+tt11394296,"Into the Deep",Movie,Netflix,6.5,90,2020,"Documentary, Biography, Crime, Mystery",4571
+tt11394338,"Giving Voice",Movie,Netflix,7,87,2020,Documentary,359
+tt11394650,"On the Record",Movie,HBO,7.2,95,2020,Documentary,1018
+tt11423784,"The Disciple",Movie,Netflix,7.1,129,2020,"Drama, Music",3271
+tt11426572,"Wedding Season",Movie,Netflix,6.4,98,2022,"Comedy, Romance",12056
+tt11426660,Cheer,"TV Series",Netflix,8,60,2020,"Documentary, Sport",7151
+tt11428926,"L'ultimo paradiso",Movie,Netflix,5.7,107,2021,"Drama, Romance",1775
+tt11434862,"Until Dawn","TV Series",Netflix,2.6,22,2020,"Comedy, Reality-TV",182
+tt11434874,"Arashi's Diary: Voyage","TV Mini Series",Netflix,7.1,NULL,2019,"Documentary, Music",57
+tt11459860,"Rose Matafeo: Horndog","TV Special",HBO,6.4,55,2020,Comedy,350
+tt11460744,"Nailed It! Germany","TV Series",Netflix,5.7,NULL,2020,Reality-TV,119
+tt11460976,"Prime Time",Movie,Netflix,5.2,93,2021,"Drama, Thriller",2066
+tt11464826,"The Social Dilemma",Movie,Netflix,7.6,94,2020,"Documentary, Drama",92771
+tt11465278,"He-Man and the Masters of the Universe","TV Series",Netflix,5.9,26,2021,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",2373
+tt11474156,"Pete Davidson: Alive from New York","TV Special",Netflix,6.2,49,2020,Comedy,4841
+tt11475228,"Killer Inside: The Mind of Aaron Hernandez","TV Mini Series",Netflix,7.3,60,2020,"Documentary, Crime, Sport",20208
+tt11479520,"Ex-Addicts Club","TV Mini Series",Netflix,6.8,22,2023,"Comedy, Drama",48
+tt11481312,Citation,Movie,Netflix,6.2,151,2020,"Drama, Thriller",1086
+tt11488724,"Fortune Feimster: Sweet & Salty","TV Special",Netflix,6.9,61,2020,Comedy,1385
+tt11497900,"Alex FernÃƒÂ¡ndez: The Best Comedian in the World","TV Special",Netflix,6.4,51,2020,Comedy,162
+tt11497904,"Pandemic: How to Prevent an Outbreak","TV Mini Series",Netflix,6.4,50,2020,Documentary,2896
+tt11497922,"Night on Earth","TV Mini Series",Netflix,8.1,50,2020,Documentary,5179
+tt11499506,"The Beast",Movie,Netflix,5.2,97,2020,"Action, Crime, Drama, Thriller",5032
+tt11514780,"Choose or Die",Movie,Netflix,4.8,84,2022,"Drama, Horror, Thriller",27998
+tt11514868,"The Perfect Couple","TV Series",Netflix,6.5,60,2024,"Crime, Drama, Mystery",68365
+tt11541872,"Big Bug",Movie,Netflix,5.5,111,2022,"Comedy, Sci-Fi",11119
+tt11542920,Omniscient,"TV Series",Netflix,6.5,NULL,2020,"Drama, Sci-Fi, Thriller",2698
+tt11542960,"Ainori Love Wagon: African Journey","TV Series",Netflix,7.4,NULL,2019,Reality-TV,151
+tt11547014,"Turner & Hooch","TV Series",Disney,6.6,NULL,2021,"Comedy, Crime, Drama, Family",4314
+tt11558924,Hillary,"TV Mini Series",Hulu,7,63,2020,"Documentary, Biography",2722
+tt11561206,"The Goop Lab","TV Series",Netflix,2.7,30,2020,"Documentary, Reality-TV",3522
+tt11561866,"Masameer: The Movie",Movie,Netflix,5.9,110,2020,"Animation, Comedy",2708
+tt11564258,"The Playlist","TV Mini Series",Netflix,7.4,50,2022,"Biography, Drama, Music",16628
+tt11564570,"Glass Onion",Movie,Netflix,7.1,139,2022,"Comedy, Crime, Drama, Mystery, Thriller",484875
+tt11569530,"Just Add Magic: Mystery City","TV Series",Amazon,7.1,27,2020,"Adventure, Comedy, Drama, Family, Fantasy, Mystery",806
+tt11570202,"The Silent Sea","TV Series",Netflix,6.9,45,2021,"Adventure, Drama, Horror, Mystery, Sci-Fi, Thriller",27694
+tt11570224,"Abla Fahita: Drama Queen","TV Series",Netflix,6.5,25,2021,"Comedy, Crime, Drama, Musical",506
+tt11594766,"The Secret Diary of an Exchange Student",Movie,Netflix,5.4,96,2021,"Comedy, Romance",1171
+tt11600174,"The Pharmacist","TV Mini Series",Netflix,7.7,60,2020,"Documentary, Crime",9181
+tt11604750,"Captain Underpants: Epic Choice-o-Rama",Short,Netflix,5.8,37,2020,"Animation, Short, Action, Adventure, Comedy, Family, Sci-Fi",211
+tt11611314,"Vir Das: For India","TV Special",Netflix,7.7,75,2020,Comedy,1593
+tt11611698,"Trial by Fire","TV Mini Series",Netflix,7.7,45,2023,"Crime, Drama, History, Thriller",4555
+tt11612120,"Sweet Home","TV Series",Netflix,7.2,52,2020,"Drama, Fantasy, Horror, Thriller",39669
+tt11617848,50MÃ‚Â²,"TV Series",Netflix,6.8,45,2021,"Comedy, Drama, Thriller",6656
+tt11639414,"The Midnight Gospel","TV Series",Netflix,8.2,23,2020,"Animation, Adventure, Comedy, Fantasy, Sci-Fi",28371
+tt11644096,"What Did Jack Do?",Short,Netflix,6.4,17,2017,"Short, Comedy, Crime, Drama, Mystery, Thriller",16326
+tt11650492,Girls5eva,"TV Series",Netflix,7.3,30,2021,"Comedy, Music",8111
+tt11651780,Choked,Movie,Netflix,5.7,114,2020,Drama,5939
+tt11651796,"AK vs AK",Movie,Netflix,6.9,108,2020,"Comedy, Crime, Drama, Thriller",15644
+tt11657662,"The Witcher: Nightmare of the Wolf",Movie,Netflix,7.2,83,2021,"Animation, Action, Adventure, Drama, Fantasy, Mystery",53997
+tt11658120,Xtreme,Movie,Netflix,5.8,111,2021,"Action, Crime, Drama, Thriller",5486
+tt11666848,"The Cabin with Bert Kreischer","TV Series",Netflix,6.8,NULL,2020,"Comedy, Reality-TV",2157
+tt11668994,"Tersanjung: The Movie",Movie,Netflix,5.9,114,2021,"Drama, Romance",263
+tt11671006,"The Man from Toronto",Movie,Netflix,5.8,110,2022,"Action, Adventure, Comedy, Thriller",64706
+tt11681250,Godmothered,Movie,Disney,6.1,110,2020,"Comedy, Drama, Family, Fantasy",14660
+tt11698590,Jaguar,"TV Series",Netflix,5.8,50,2021,"Action, Drama, History",2376
+tt11698630,"Crazy About Her",Movie,Netflix,6.6,102,2021,"Comedy, Romance",6807
+tt11698662,"Sounds Like Love",Movie,Netflix,5.4,110,2021,"Comedy, Music, Romance",2951
+tt11698668,"Sing On! Spain","TV Series",Netflix,6.2,NULL,2020,"Game-Show, Music",155
+tt11703050,"The House",Movie,Netflix,6.8,97,2022,"Animation, Comedy, Drama, Fantasy, Horror, Mystery, Thriller",24749
+tt11704040,"Love Is Blind","TV Series",Netflix,6.2,60,2020,"Reality-TV, Romance",12827
+tt11714334,Limitless,"TV Series",Disney,8,50,2022,"Documentary, Adventure",5138
+tt11717394,"Country Comfort","TV Series",Netflix,6.8,25,2021,"Comedy, Drama, Family, Music",4545
+tt11725706,"Taj Mahal 1989","TV Series",Netflix,7.4,NULL,2020,"Comedy, Drama, Romance",1773
+tt11733790,"John Was Trying to Contact Aliens",Short,Netflix,6.4,16,2020,"Documentary, Short, Biography, Romance, Sci-Fi",1828
+tt11734264,Sentinelle,Movie,Netflix,4.8,80,2021,"Action, Drama, Thriller",9068
+tt11737520,"One Piece","TV Series",Netflix,8.3,60,2023,"Action, Adventure, Comedy, Drama, Fantasy",179093
+tt11738790,"Mighty Little Bheem: Festival of Colors","TV Series",Netflix,7.5,NULL,2020,Animation,47
+tt11738792,"Taylor Tomlinson: Quarter-Life Crisis","TV Special",Netflix,7.4,61,2020,Comedy,5669
+tt11742798,"Afterlife of the Party",Movie,Netflix,5.8,109,2021,"Comedy, Drama, Fantasy, Romance",11399
+tt11744632,Babies,"TV Series",Netflix,6.9,NULL,2020,Documentary,930
+tt11754464,Whipped,Movie,Netflix,4.1,97,2020,"Comedy, Drama, Romance",700
+tt11755740,"Texas Chainsaw Massacre",Movie,Netflix,4.7,81,2022,"Crime, Horror, Thriller",67419
+tt11763742,"Road to Roma",Movie,Netflix,7.7,72,2020,Documentary,780
+tt11767524,"Carmen Sandiego: To Steal or Not to Steal",Short,Netflix,6.9,31,2020,"Animation, Short, Action, Adventure, Family",946
+tt11768948,"If Anything Happens I Love You",Short,Netflix,7.8,13,2020,"Animation, Short, Drama",23229
+tt11777040,"Time to Hunt",Movie,Netflix,6.3,134,2020,"Action, Crime, Drama, Sci-Fi, Thriller",7496
+tt11792734,"Leyla Everlasting",Movie,Netflix,3.7,112,2020,Comedy,8213
+tt11810418,"Marc Maron: End Times Fun","TV Special",Netflix,6.8,71,2020,Comedy,2235
+tt11810424,"Bert Kreischer: Hey Big Boy","TV Special",Netflix,7,62,2020,Comedy,2454
+tt11816814,Painkiller,"TV Mini Series",Netflix,7.4,48,2023,"Crime, Drama",33842
+tt11821818,"Double Dad",Movie,Netflix,5.7,103,2021,"Comedy, Drama, Family",1623
+tt11822998,"The Trials of Gabriel Fernandez","TV Mini Series",Netflix,8.1,60,2020,"Documentary, Crime",14989
+tt11823028,"Fary: Hexagone","TV Series",Netflix,6.4,NULL,2020,Comedy,168
+tt11823076,"Tiger King","TV Series",Netflix,7.5,45,2020,"Documentary, Biography, Crime",89878
+tt11823088,"100 Humans: Life's Questions. Answered.","TV Series",Netflix,5.8,NULL,2020,Reality-TV,4762
+tt11829316,Vampires,"TV Series",Netflix,5.8,NULL,2020,"Drama, Fantasy, Horror",1591
+tt11829340,Buddi,"TV Series",Netflix,6.9,12,2020,"Animation, Short, Adventure, Comedy, Family, Fantasy",75
+tt11834150,"The Chair","TV Mini Series",Netflix,7.2,30,2021,"Comedy, Drama",19569
+tt11841144,"The Heartbreak Club",Movie,Netflix,6.3,101,2021,"Comedy, Drama, Romance",236
+tt11852810,"The Quest","TV Series",Disney,3.9,NULL,2022,"Adventure, Fantasy, Reality-TV",607
+tt11853160,"Meet the Chimps","TV Series",Disney,7.7,40,2020,Documentary,151
+tt11859542,"In from the Cold","TV Series",Netflix,6.3,42,2022,"Action, Crime, Drama, Mystery, Sci-Fi, Thriller",10386
+tt11860336,"Mighty Express","TV Series",Netflix,3.8,NULL,2020,"Animation, Adventure, Comedy, Family",171
+tt11860624,"Michael McIntyre: Showman","TV Special",Netflix,7.2,62,2020,Comedy,1621
+tt11861072,"Tom Segura: Ball Hog","TV Special",Netflix,7.3,70,2020,Comedy,4020
+tt11871764,"The Proud Family: Louder and Prouder","TV Series",Disney,3.2,30,2022,"Animation, Adventure, Comedy, Family",5479
+tt11875316,"The Mysterious Benedict Society","TV Series",Disney,7.6,50,2021,"Action, Adventure, Comedy, Drama, Family, Mystery",6066
+tt11875456,"Dragons: Rescue Riders: Hunt for the Golden Dragon","TV Special",Netflix,5.2,46,2020,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery",218
+tt11875458,"True: Wuzzle Wegg Day","TV Special",Netflix,6.6,23,2020,Animation,20
+tt11893274,"Downfall: The Case Against Boeing",Movie,Netflix,7.4,89,2022,Documentary,14444
+tt11897478,"The Stranger",Movie,Netflix,6.6,117,2022,"Crime, Drama, Thriller",29209
+tt11898920,"Naomi Osaka","TV Mini Series",Netflix,6.3,38,2021,"Documentary, Biography, Sport",1505
+tt11905462,"Athlete A",Movie,Netflix,7.6,103,2020,"Documentary, Crime, Sport",13208
+tt11905720,She,"TV Series",Netflix,6.4,NULL,2020,"Crime, Drama",6813
+tt1190634,"The Boys","TV Series",Amazon,8.6,60,2019,"Action, Comedy, Crime, Drama, Sci-Fi",800383
+tt11909878,"Hocus Pocus 2",Movie,Disney,6,103,2022,"Comedy, Family, Fantasy",56898
+tt11936782,"Geez & Ann",Movie,Netflix,5.2,105,2021,"Drama, Romance",359
+tt11937662,"Control Z","TV Series",Netflix,6.8,37,2020,"Drama, Thriller",11989
+tt11937732,"Daughter from Another Mother","TV Series",Netflix,7.2,NULL,2021,"Comedy, Drama",2631
+tt11937816,"Who Killed Sara?","TV Series",Netflix,6.4,40,2021,"Crime, Drama, Mystery, Thriller",17125
+tt11942052,"J-Style Trip","TV Series",Netflix,4.9,NULL,2020,Reality-TV,136
+tt11942070,"Spirit Riding Free: Riding Academy","TV Series",Netflix,6,NULL,2020,"Animation, Action, Adventure, Comedy, Drama, Family, Western",169
+tt11942100,"Ladies Up","TV Series",Netflix,4.4,NULL,2020,Comedy,270
+tt11946520,"Coronavirus Explained","TV Movie",Netflix,7.4,NULL,2020,Documentary,815
+tt11948642,Mulligan,"TV Series",Netflix,4.9,25,2023,"Animation, Comedy, Sci-Fi",1695
+tt11951234,"Over Christmas","TV Mini Series",Netflix,6.7,48,2020,"Comedy, Drama, Romance",2534
+tt11953628,Maska,Movie,Netflix,5.9,111,2020,"Comedy, Drama, Romance",1619
+tt11958344,"A Whisker Away",Movie,Netflix,6.7,104,2020,"Animation, Adventure, Drama, Family, Fantasy, Romance",16743
+tt11958648,"History 101","TV Series",Netflix,6.8,22,2020,"Documentary, History",4976
+tt11958922,"The Innocence Files","TV Mini Series",Netflix,7.9,60,2020,"Documentary, Crime",3327
+tt11958942,"How to Fix a Drug Scandal","TV Mini Series",Netflix,7,50,2020,"Documentary, Crime",4000
+tt11960282,Littlekenny,"TV Mini Series",Hulu,7,NULL,2019,"Animation, Comedy",464
+tt11961378,Fatma,"TV Series",Netflix,7.4,40,2021,"Crime, Drama",10253
+tt11963042,"Trial by Media","TV Series",Netflix,7.1,60,2020,"Documentary, Crime",3731
+tt11963126,"A Spark Story",Movie,Disney,6.3,87,2021,"Documentary, Animation",226
+tt11981568,"Cars on the Road","TV Mini Series",Disney,6.9,NULL,2022,"Animation, Adventure, Comedy, Family, Sport",4753
+tt11983342,"Shaun the Sheep: Adventures from Mossy Bottom","TV Series",Netflix,7.9,14,2020,"Animation, Comedy, Family",1036
+tt11987296,"Chris D'Elia: No Pain","TV Special",Netflix,5.9,55,2020,Comedy,1930
+tt11987330,"David Batra: Elefanten i rummet","TV Special",Netflix,6,77,2020,Comedy,259
+tt11987416,"Tom Segura: Sledgehammer","TV Special",Netflix,7.1,61,2023,"Documentary, Comedy",3185
+tt11988512,"One-Way to Tomorrow",Movie,Netflix,5.6,90,2020,"Comedy, Drama, Romance",5713
+tt11988676,"Hot Skull","TV Mini Series",Netflix,7.1,60,2022,"Adventure, Drama, Mystery, Sci-Fi, Thriller",8256
+tt11989890,"David Attenborough: A Life on Our Planet","TV Movie",Netflix,8.9,83,2020,"Documentary, Biography",35582
+tt11998854,"Disney Insider","TV Series",Disney,6.5,17,2020,Documentary,378
+tt12001534,"The Thursday Murder Club",Movie,Netflix,6.6,118,2025,"Comedy, Crime, Mystery, Thriller",35642
+tt12004280,"Too Hot to Handle","TV Series",Netflix,4.8,40,2020,"Documentary, Game-Show, Reality-TV, Romance",15930
+tt12005828,"You Don't Know Me","TV Series",Netflix,6.8,60,2021,"Crime, Drama",8835
+tt12013758,"Caught by a Wave",Movie,Netflix,5.8,99,2021,"Drama, Romance, Sport",1649
+tt12027008,"Absurd Planet","TV Series",Netflix,4.1,NULL,2020,"Documentary, Comedy, Musical",1731
+tt12027020,"LA Originals",Movie,Netflix,7.2,92,2020,Documentary,2070
+tt12027034,"Middleditch & Schwartz","TV Series",Netflix,8.6,50,2020,Comedy,6238
+tt12027896,"Angry Birds: Summer Madness","TV Series",Netflix,5.7,11,2022,"Animation, Short, Action, Adventure, Comedy, Family, Fantasy",1135
+tt12031040,"Japan Sinks: 2020","TV Mini Series",Netflix,6.4,25,2020,"Animation, Adventure, Drama, Sci-Fi",3712
+tt12036052,Elephant,Movie,Disney,7.3,86,2020,"Documentary, Adventure, Biography, Family",2494
+tt12038300,"The Speed Cubers",Short,Netflix,7.4,39,2020,"Documentary, Short, Sport",4345
+tt12055392,"Yours Sincerely, Kanan Gill","TV Special",Netflix,7.1,72,2020,Comedy,1109
+tt12076020,"A Celebration of the Music from Coco","TV Special",Disney,7,47,2020,"Music, Musical",311
+tt12078990,"Money Heist: The Phenomenon","TV Movie",Netflix,7.5,57,2020,Documentary,3914
+tt12079068,"Sol Levante",Short,Netflix,4.7,4,2020,"Animation, Short",725
+tt12079212,"The Victims' Game","TV Series",Netflix,7.3,NULL,2020,"Crime, Drama, Thriller",2296
+tt12079236,"The Forest of Love: Deep Cut","TV Mini Series",Netflix,6.8,40,2020,"Crime, Drama, Horror, Thriller",667
+tt12083014,"Zero Chill","TV Series",Netflix,5.8,35,2021,"Comedy, Drama, Family, Sport",2095
+tt12104930,Kitz,"TV Series",Netflix,5.8,45,2021,"Drama, Mystery, Thriller",3127
+tt12105232,"It's A Dog's Life","TV Series",Disney,7.8,22,2020,Documentary,132
+tt12117854,"Jerry Seinfeld: 23 Hours to Kill","TV Special",Netflix,6.7,60,2020,Comedy,5904
+tt1212428,"The Lost City of Z",Movie,Amazon,6.6,141,2016,"Adventure, Biography, Drama, History",103958
+tt12133722,"Have a Good Trip",Movie,Netflix,6.8,85,2020,"Documentary, Comedy",8886
+tt12140808,"True: Terrific Tales","TV Series",Netflix,6.4,NULL,2020,"Animation, Family",45
+tt12141112,"Metal Lords",Movie,Netflix,6.7,97,2022,"Comedy, Music",35531
+tt12146940,"Almost Happy","TV Mini Series",Netflix,6.9,NULL,2020,Comedy,1264
+tt12146952,"Patton Oswalt: I Love Everything","TV Special",Netflix,6.4,66,2020,Comedy,1433
+tt12154638,"Just Say Yes",Movie,Netflix,4.6,97,2021,"Comedy, Romance",2230
+tt12156974,"We Feed People",Movie,Disney,7.4,89,2022,Documentary,638
+tt12162902,"Disney Gallery: The Mandalorian","TV Series",Disney,8.3,33,2020,Documentary,3490
+tt12176398,"Cooked with Cannabis","TV Series",Netflix,6.6,NULL,2020,Reality-TV,497
+tt12187586,"Father Soldier Son",Movie,Netflix,7.3,99,2020,"Documentary, War",1084
+tt12189308,"The Unremarkable Juanquini","TV Series",Netflix,4.3,30,2020,Comedy,216
+tt12190580,"Lenox Hill","TV Series",Netflix,8.6,50,2020,"Documentary, Biography",3106
+tt12200714,"The Big Flower Fight","TV Series",Netflix,7.4,NULL,2020,Reality-TV,1487
+tt12211696,Sharkdog,"TV Series",Netflix,6,7,2021,"Animation, Short, Adventure, Comedy, Family",270
+tt12217814,"Love like the Falling Rain",Movie,Netflix,4.8,86,2020,"Adventure, Drama, Fantasy, Romance",244
+tt12221748,Becoming,Movie,Netflix,7,89,2020,"Documentary, Biography",6810
+tt12225230,"Doogie Kamealoha, M.D.","TV Series",Disney,7,30,2021,"Comedy, Drama, Family",3688
+tt12227200,"Making Unorthodox",Short,Netflix,6.7,21,2020,"Short, Documentary",213
+tt12235718,Hellbound,"TV Series",Netflix,6.6,25,2021,"Crime, Drama, Fantasy, Horror, Mystery, Thriller",32268
+tt12240368,"Go! Go! Cory Carson: The Chrissy",Short,Netflix,7.2,42,2020,"Animation, Short, Family",67
+tt12241424,"Kenny Sebastian: The Most Interesting Person in the Room","TV Special",Netflix,6,67,2020,Comedy,1067
+tt12244950,"Taste the Nation with Padma Lakshmi","TV Series",Hulu,8.1,30,2020,"Adventure, Reality-TV",772
+tt12262202,"The Acolyte","TV Series",Disney,4.3,40,2024,"Action, Adventure, Fantasy, Mystery, Sci-Fi, Thriller",137915
+tt12263384,"Extraction II",Movie,Netflix,7,122,2023,"Action, Crime, Thriller",167048
+tt12264582,"True: Rainbow Rescue","TV Special",Netflix,7,23,2020,"Animation, Family",47
+tt1226837,"Beautiful Boy",Movie,Amazon,7.4,120,2018,"Biography, Drama",119207
+tt12282598,Intuition,Movie,Netflix,5.6,116,2020,"Crime, Drama, Mystery, Thriller",3292
+tt12286434,"Just Beyond","TV Series",Disney,6.1,24,2021,"Comedy, Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",2276
+tt12298506,"Black Box",Movie,Amazon,6.2,100,2020,"Horror, Mystery, Sci-Fi, Thriller",18611
+tt12299824,JJ+E,Movie,Netflix,5.4,90,2021,"Drama, Romance",2766
+tt12304420,Clark,"TV Mini Series",Netflix,7.3,60,2022,"Action, Comedy, Crime, Drama, Mystery, Thriller",15703
+tt12312250,"Jeffrey Epstein: Filthy Rich","TV Mini Series",Netflix,7.1,60,2020,"Documentary, Crime",31203
+tt12313074,"Social Distance","TV Mini Series",Netflix,5.9,NULL,2020,"Comedy, Drama",756
+tt12313914,"Ju-on: Origins","TV Series",Netflix,6.1,30,2020,"Drama, Horror, Mystery",5691
+tt12324366,"Percy Jackson and the Olympians","TV Series",Disney,7,45,2023,"Action, Adventure, Family, Fantasy",43372
+tt12327104,"Eric Andre: Legalize Everything","TV Special",Netflix,6.2,51,2020,Comedy,2757
+tt12336480,Daughters,Movie,Netflix,7.6,108,2024,Documentary,1761
+tt12357266,"Jo Koy: In His Elements","TV Special",Netflix,5.5,55,2020,Comedy,717
+tt12358794,"George Lopez: We'll Do It for Half","TV Special",Netflix,5.8,51,2020,Comedy,507
+tt12360292,"Power Rangers Dino Fury","TV Series",Netflix,6.5,21,2021,"Action, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi, Thriller",1261
+tt1236246,Runaways,"TV Series",Hulu,6.8,60,2017,"Action, Drama, Sci-Fi",29700
+tt12364156,"The Search","TV Mini Series",Netflix,5.7,NULL,2020,Crime,782
+tt12370124,"Floor Is Lava","TV Series",Netflix,5.4,38,2020,Game-Show,3066
+tt12372034,Zenimation,"TV Series",Disney,7.4,8,2020,"Animation, Short, Family",549
+tt12379170,"Secrets of Summer","TV Series",Netflix,6,35,2022,"Drama, Family",334
+tt12383460,Hypnotic,Movie,Netflix,5.3,88,2021,"Horror, Mystery, Thriller",21434
+tt12393526,Bulbbul,Movie,Netflix,6.6,94,2020,"Drama, Horror, Mystery",15930
+tt12401232,"One Take",Movie,Netflix,5.9,85,2020,"Documentary, Music",56
+tt12409154,"We Are the Champions","TV Series",Netflix,7.1,30,2020,"Documentary, Game-Show",1694
+tt12411074,Paranormal,"TV Series",Netflix,8,45,2020,"Drama, Fantasy, Horror, Mystery, Thriller",75376
+tt12411586,"The Claudia Kishi Club",Short,Netflix,6.9,17,2020,"Documentary, Short",172
+tt1241317,"Death Note",Movie,Netflix,4.5,101,2017,"Crime, Drama, Fantasy, Horror, Mystery, Thriller",94141
+tt12416844,"Frank Elstner: Just One Last Question","TV Series",Netflix,7.4,NULL,2019,Talk-Show,98
+tt12429046,"Home Game","TV Series",Netflix,7,30,2020,"Documentary, Sport",1030
+tt12432642,"Finding Ola","TV Series",Netflix,7.4,52,2022,"Comedy, Drama",2595
+tt12459520,"The Claus Family",Movie,Netflix,5.6,96,2020,"Comedy, Family, Fantasy",3329
+tt12486430,Twogether,"TV Series",Netflix,8.3,NULL,2020,Reality-TV,601
+tt12502140,"Dating Around: Brazil","TV Series",Netflix,5.3,NULL,2020,"Reality-TV, Romance",159
+tt12509942,"Michelle Buteau: Welcome to Buteaupia","TV Special",Netflix,7,58,2020,Comedy,813
+tt12536776,"Dark Forces",Movie,Netflix,2.8,81,2020,"Action, Horror, Mystery, Thriller",757
+tt12538822,"All In: The Fight for Democracy",Movie,Amazon,6.9,102,2020,Documentary,2102
+tt12540060,"Say I Do","TV Series",Netflix,7.9,NULL,2020,Reality-TV,624
+tt12540080,"Dark Desire","TV Series",Netflix,6.5,30,2020,"Crime, Drama, Mystery, Thriller",10259
+tt12547440,"Thiago Ventura: Pokas","TV Special",Netflix,6.6,82,2020,Comedy,260
+tt12564616,Jiva!,"TV Series",Netflix,6,50,2021,Drama,337
+tt12564744,"Selena + Chef","TV Series",HBO,8.3,NULL,2020,"Short, Reality-TV, Talk-Show",2201
+tt12567088,"Raat Akeli Hai",Movie,Netflix,7.2,149,2020,"Crime, Drama, Mystery, Thriller",20886
+tt12571792,"A Queen Is Born","TV Series",Netflix,6.2,NULL,2020,Reality-TV,174
+tt12572032,"Urzila Carlson: Overqualified Loser","TV Special",Netflix,6.4,62,2020,Comedy,477
+tt12574336,Homemade,"TV Mini Series",Netflix,6.1,138,2020,Drama,934
+tt12579042,"Short Circuit","TV Series",Disney,7.5,7,2018,"Animation, Short, Comedy, Family",780
+tt12580168,"Indian Matchmaking","TV Series",Netflix,6.3,40,2020,"Documentary, Family, News, Reality-TV, Romance",4530
+tt12580610,"The Epic Tales of Captain Underpants in Space","TV Series",Netflix,6.5,24,2020,"Animation, Action, Comedy, Family, Sci-Fi",211
+tt12580982,"National Treasure: Edge of History","TV Series",Disney,5.8,50,2022,"Action, Adventure, Mystery, Thriller",13982
+tt12585152,"Down to Earth with Zac Efron","TV Series",Netflix,8,40,2020,"Documentary, History, Reality-TV",8306
+tt12588160,"Jim Jefferies: Intolerant","TV Special",Netflix,7.3,66,2020,Comedy,3601
+tt12588286,"Southern Survival","TV Series",Netflix,5.3,NULL,2020,Reality-TV,522
+tt12588326,"Skin Decision: Before and After","TV Series",Netflix,6,NULL,2020,Reality-TV,492
+tt12588372,"Fear City: New York vs the Mafia","TV Mini Series",Netflix,7.1,50,2020,"Documentary, Crime",8822
+tt12588398,"We Are One",Movie,Netflix,5.6,86,2020,Documentary,99
+tt12588416,"The Business of Drugs","TV Mini Series",Netflix,7.2,45,2020,Documentary,1959
+tt12588432,"Jack Whitehall: I'm Only Joking","TV Special",Netflix,6.7,58,2020,Comedy,1920
+tt12588448,"The Larva Island Movie",Movie,Netflix,5.2,89,2020,"Animation, Adventure, Comedy, Family",842
+tt12590266,"Cyberpunk: Edgerunners","TV Series",Netflix,8.3,24,2022,"Animation, Action, Adventure, Crime, Drama, Sci-Fi, Thriller",111470
+tt12599350,"Dragons: Rescue Riders: Secrets of the Songwing","TV Movie",Netflix,5.1,46,2020,"Animation, Action, Adventure, Comedy, Family, Fantasy, Musical",273
+tt12607910,"Black Is King",Movie,Disney,6,85,2020,"Adventure, Drama, Fantasy, Music",9760
+tt12610390,"The Union",Movie,Netflix,5.5,107,2024,"Action, Comedy, Thriller",55535
+tt12616964,"All the Places",Movie,Netflix,5.6,97,2023,"Adventure, Comedy, Drama",430
+tt12624844,"The Great Heist","TV Series",Netflix,7.3,NULL,2020,"Crime, Drama, Thriller",3124
+tt12624928,"Colin in Black & White","TV Mini Series",Netflix,6.2,30,2021,"Biography, Drama, Sport",8852
+tt12642764,"Dead End: Paranormal Park","TV Series",Netflix,7.1,27,2022,"Animation, Adventure, Comedy, Family, Fantasy, Horror, Mystery",3490
+tt12661060,"Kitty Love: An Homage to Cats",Movie,Netflix,5.2,60,2020,Documentary,611
+tt12662374,"I Am A Killer: Released","TV Series",Netflix,5.3,NULL,2020,"Documentary, Crime",1203
+tt12663250,"Yaksha: Ruthless Operations",Movie,Netflix,6.3,125,2022,"Action, Crime, Thriller",5109
+tt1267295,"Cowboy Bebop","TV Series",Netflix,6.7,58,2021,"Action, Adventure, Comedy, Crime, Drama, Sci-Fi",45453
+tt12676326,"Malcolm & Marie",Movie,Netflix,6.6,106,2021,"Drama, Romance",42750
+tt12680684,"The Hand of God",Movie,Netflix,7.3,130,2021,Drama,52775
+tt12687448,"Night on Earth: Shot in the Dark",Movie,Netflix,7.6,59,2020,Documentary,434
+tt12689876,"Sam Jay: 3 in the Morning","TV Special",Netflix,6.5,64,2020,Comedy,614
+tt12703292,"A Man of Action",Movie,Netflix,6.4,111,2022,"Biography, Crime, Drama, History",3729
+tt12708140,"The Lying Life of Adults","TV Series",Netflix,6.4,50,2023,Drama,1837
+tt12708500,"Ravi Patel's Pursuit of Happiness","TV Series",HBO,7.9,42,2020,"Documentary, Comedy",131
+tt12708542,"Star Wars: The Bad Batch","TV Series",Disney,7.8,30,2021,"Animation, Action, Adventure, Drama, Fantasy, Sci-Fi",63484
+tt12717354,"Samurai Rabbit: The Usagi Chronicles","TV Series",Netflix,6.3,25,2022,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",637
+tt12719250,Mismatched,"TV Series",Netflix,6,30,2020,"Comedy, Drama, Romance",7343
+tt12721188,"Dad Wanted",Movie,Netflix,5.8,102,2020,"Comedy, Drama, Family",1244
+tt12723962,"Mystery Lab","TV Series",Netflix,7.4,NULL,2020,"Documentary, Animation, Comedy, Family, Mystery",907
+tt12724622,"Anelka: Misunderstood",Movie,Netflix,6.4,94,2020,"Documentary, Sport",3654
+tt12724632,"Rob Schneider: Asian Momma, Mexican Kids","TV Special",Netflix,5.5,44,2020,Comedy,925
+tt12736014,CTRL,Movie,Netflix,6.2,99,2024,"Drama, Thriller",6512
+tt12742136,"Street Food: Latin America","TV Mini Series",Netflix,7.7,30,2020,Documentary,1719
+tt12747748,"Leave the World Behind",Movie,Netflix,6.4,138,2023,"Drama, Mystery, Thriller",233834
+tt12748032,"The Witcher: A Look Inside the Episodes","TV Series",Netflix,6.9,NULL,2020,"Documentary, Short",211
+tt12748084,"Anatomy of a Scandal","TV Mini Series",Netflix,7,45,2022,"Drama, Mystery, Thriller",39078
+tt12748256,"Go! Go! Cory Carson: Summer Camp","TV Special",Netflix,6.1,20,2020,"Animation, Short, Family",56
+tt12748264,"Sing On! Germany","TV Series",Netflix,5.4,NULL,2020,"Game-Show, Music, Reality-TV",158
+tt12748268,"Word Party Songs","TV Series",Netflix,4.1,NULL,2020,"Animation, Family",28
+tt12748300,"Forever Rich",Movie,Netflix,5.6,89,2021,"Action, Comedy, Crime, Drama, Music, Thriller",1738
+tt12753692,"Connected: The Hidden Science of Everything","TV Series",Netflix,7.5,45,2020,"Documentary, Comedy",1997
+tt12753698,"World's Most Wanted","TV Series",Netflix,7.1,45,2020,"Documentary, Crime",3083
+tt12754910,"Immigration Nation","TV Series",Netflix,7.6,60,2020,Documentary,1278
+tt12759084,"On the Trail: Inside the 2020 Primaries",Movie,HBO,6.6,NULL,2020,Documentary,147
+tt12759334,"Tiny Creatures","TV Series",Netflix,5.1,NULL,2020,"Documentary, Short, Drama, Family",1471
+tt12759384,(Un)Well,"TV Series",Netflix,6.4,NULL,2020,Documentary,1288
+tt12759400,"High Score","TV Mini Series",Netflix,7.4,45,2020,Documentary,9233
+tt12759408,"Octonauts and the Caves of Sac Actun",Movie,Netflix,6.4,72,2020,"Animation, Adventure, Comedy, Family",281
+tt12759420,"DeMarcus Family Rules","TV Series",Netflix,5.1,NULL,2020,Reality-TV,129
+tt12765530,"Alien TV","TV Series",Netflix,6.5,NULL,2019,"Animation, Comedy, Family",417
+tt12771540,Audible,Short,Netflix,6.7,39,2021,"Documentary, Short, Sport",2734
+tt12775836,"Bhaag Beanie Bhaag","TV Series",Netflix,3.4,29,2020,Comedy,6774
+tt12779208,Milestone,Movie,Netflix,6.6,98,2020,Drama,867
+tt12783454,"The Kissing Booth 3",Movie,Netflix,4.8,112,2021,"Comedy, Romance",25236
+tt12785720,"The Witcher: Blood Origin","TV Mini Series",Netflix,5,50,2022,"Action, Adventure, Drama, Fantasy, Mystery",47260
+tt12792418,"Night in Paradise",Movie,Netflix,6.8,131,2020,"Action, Crime, Drama, Thriller",10060
+tt12792598,"Tragic Jungle",Movie,Netflix,5.6,96,2020,"Adventure, Drama, Mystery, Western",1209
+tt12800428,"Game On! A Comedy Crossover Event","TV Series",Netflix,5.5,30,2020,"Comedy, Family",503
+tt12806000,"Sugar High","TV Special",Netflix,7.2,44,2020,Reality-TV,239
+tt12808182,"The Last Mercenary",Movie,Netflix,5.3,110,2021,"Action, Adventure, Comedy, Crime, Mystery, Thriller",10261
+tt12809988,"Sweet Tooth","TV Series",Netflix,7.7,50,2021,"Action, Adventure, Drama, Fantasy, Sci-Fi",76972
+tt12823454,"Your Place or Mine",Movie,Netflix,5.7,109,2023,"Comedy, Romance",43258
+tt12824750,"Secrets of the Whales","TV Mini Series",Disney,8.4,191,2021,"Documentary, Adventure",1154
+tt12838766,"Space Sweepers",Movie,Netflix,6.5,136,2021,"Action, Adventure, Drama, Fantasy, Sci-Fi",30417
+tt12851396,"Trollhunters: Rise of the Titans",Movie,Netflix,6.6,104,2021,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy",6850
+tt12855976,"True: Friendship Day","TV Movie",Netflix,6.9,23,2020,"Animation, Family",41
+tt12858434,"Kiss, Kiss!",Movie,Netflix,3.7,107,2022,"Comedy, Romance",477
+tt12875768,"Felipe Esparza: Bad Decisions","TV Mini Series",Netflix,5.6,62,2020,Comedy,237
+tt12875782,"Freaks: You're One of Us",Movie,Netflix,5.4,92,2020,"Drama, Fantasy, Sci-Fi",7198
+tt12875794,"La LÃƒÂ­nea: Shadow of Narco","TV Mini Series",Netflix,6.4,NULL,2020,"Documentary, Crime",485
+tt12877640,"A Classic Horror Story",Movie,Netflix,5.7,95,2021,"Drama, Horror, Mystery, Thriller",23760
+tt12879522,"The School Nurse Files","TV Series",Netflix,6.3,51,2020,"Comedy, Drama, Fantasy",1710
+tt12881516,"Black Island","TV Movie",Netflix,5.2,104,2021,"Drama, Mystery, Thriller",3637
+tt12882062,"Sarah Cooper: Everything's Fine","TV Special",Netflix,5.5,49,2020,Comedy,1905
+tt12882136,"Million Dollar Beach House","TV Series",Netflix,4.3,NULL,2020,Reality-TV,923
+tt12885272,Diana,Movie,Netflix,4.4,117,2021,"Biography, Drama, Musical",1583
+tt12885438,"The Lego Star Wars Holiday Special","TV Movie",Disney,6.4,44,2020,"Animation, Action, Adventure, Comedy, Family, Mystery, Sci-Fi",8405
+tt12885670,"The Last Bus","TV Series",Netflix,5.3,35,2022,"Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",987
+tt12888462,"My Octopus Teacher",Movie,Netflix,8.1,85,2020,"Documentary, Drama",68861
+tt12908110,"Mr. Harrigan's Phone",Movie,Netflix,6,104,2022,"Drama, Horror, Mystery",42742
+tt12917170,"Chef's Table: BBQ","TV Mini Series",Netflix,7.7,45,2020,Documentary,1398
+tt12923630,"Bad Boy Billionaires: India","TV Series",Netflix,7.9,60,2020,"Documentary, Biography, Crime",3545
+tt12923664,Bookmarks,"TV Series",Netflix,5.8,NULL,2020,"Short, Family",372
+tt12923734,"Sing On!","TV Series",Netflix,6.4,NULL,2020,"Game-Show, Music",495
+tt12923792,"Captain Fall","TV Series",Netflix,6.9,27,2023,"Animation, Comedy",5437
+tt1292576,"Sigmund and the Sea Monsters","TV Series",Amazon,6.9,25,2016,"Comedy, Family",198
+tt12929990,"Resort to Love",Movie,Netflix,5.7,101,2021,"Comedy, Romance",7264
+tt12930476,"Afonso Padilha: Classless","TV Special",Netflix,6.8,63,2020,Comedy,295
+tt12930534,"Challenger: The Final Flight","TV Mini Series",Netflix,7.8,45,2020,"Documentary, History",8410
+tt12930602,"The Playbook","TV Series",Netflix,7.4,NULL,2020,"Documentary, Sport",1832
+tt12938472,"The American Barbecue Showdown","TV Series",Netflix,7.1,NULL,2020,"Game-Show, Reality-TV",2105
+tt12939812,"Nail Bomber: Manhunt",Movie,Netflix,6.3,72,2021,"Documentary, Crime, History",2657
+tt12939836,"A Perfect Crime","TV Mini Series",Netflix,7.3,40,2020,"Documentary, Crime",1775
+tt12940504,"My Name","TV Series",Netflix,7.8,50,2021,"Action, Crime, Drama, Mystery, Thriller",40386
+tt12943032,"HA Festival: The Art of Comedy","TV Series",HBO,6.2,NULL,2020,Comedy,41
+tt12982218,"GIMS: On the Record",Movie,Netflix,6.9,96,2020,"Documentary, Music",238
+tt12987838,"Making the Witcher","TV Movie",Netflix,6.8,32,2020,Documentary,575
+tt12987872,"Country Ever After","TV Series",Netflix,6.8,NULL,2020,"Music, Reality-TV",195
+tt12987894,"American Murder: The Family Next Door",Movie,Netflix,7.2,83,2020,"Documentary, Crime",36199
+tt12987918,"Good Morning, VerÃƒÂ´nica","TV Series",Netflix,7.4,49,2020,"Crime, Drama, Mystery, Thriller",7100
+tt12996154,"365 Days: This Day",Movie,Netflix,2.7,111,2022,"Drama, Romance",27119
+tt13003996,"My Brother, My Sister",Movie,Netflix,6.1,110,2021,Drama,1277
+tt13005714,"Whose Vote Counts, Explained","TV Mini Series",Netflix,7.3,25,2020,Documentary,1410
+tt13007592,"The Noel Diary",Movie,Netflix,6.2,99,2022,"Comedy, Drama, Romance",21190
+tt13014820,"Kings of Mulberry Street: Let Love Reign",Movie,Netflix,4.7,109,2023,"Adventure, Comedy, Drama, Family",115
+tt13016388,"3 Body Problem","TV Series",Netflix,7.5,60,2024,"Adventure, Drama, Fantasy, Mystery, Sci-Fi",170026
+tt13018090,"Dad Stop Embarrassing Me!","TV Series",Netflix,4.3,25,2021,"Comedy, Family",2461
+tt1302006,"The Irishman",Movie,Netflix,7.8,209,2019,"Biography, Crime, Drama, History, Thriller",459189
+tt13022120,"A Deadly Invitation",Movie,Netflix,5.1,92,2023,"Comedy, Mystery, Thriller",2380
+tt13024674,"Army of Thieves",Movie,Netflix,6.4,127,2021,"Action, Comedy, Crime, Thriller",95399
+tt13024830,Senna,"TV Mini Series",Netflix,8.2,60,2024,"Biography, Drama, Sport",19308
+tt13024974,D.P.,"TV Series",Netflix,8.2,50,2021,"Action, Crime, Drama",11305
+tt13032716,"Dancing Queens",Movie,Netflix,5.8,110,2021,"Comedy, Drama",2320
+tt13044528,"La RÃƒÂ©volution","TV Series",Netflix,6.6,NULL,2020,"Adventure, Drama, Fantasy, History, Mystery, Thriller, War",6801
+tt13045890,"Paper Lives",Movie,Netflix,6.6,96,2021,Drama,14596
+tt13053222,"Post Mortem: No One Dies in Skarnes","TV Series",Netflix,7,44,2021,"Comedy, Drama, Thriller",4559
+tt13055780,"A California Christmas",Movie,Netflix,5.8,106,2020,"Comedy, Drama, Romance",12009
+tt13056008,"No One Gets Out Alive",Movie,Netflix,5.4,87,2021,"Drama, Horror, Mystery, Thriller",23326
+tt13058290,"Blackpink: Light Up the Sky",Movie,Netflix,7.3,79,2020,"Documentary, Music",7637
+tt13058374,"A Go! Go! Cory Carson Halloween","TV Special",Netflix,6.4,24,2020,"Animation, Short, Family, Horror",73
+tt13061790,"Once Upon a Snowman",Short,Disney,6.8,8,2020,"Animation, Short, Adventure, Comedy, Family, Fantasy",3943
+tt13064634,GlÃƒÂ³ria,"TV Series",Netflix,7.8,40,2021,"Drama, History, Thriller",5351
+tt13064902,FUBAR,"TV Series",Netflix,6.5,55,2023,"Action, Adventure, Comedy, Thriller",44702
+tt13067004,"Last Summer",Movie,Netflix,6.2,101,2021,"Drama, Romance",4053
+tt13070478,"Deaf U","TV Series",Netflix,6.3,NULL,2020,"Drama, Reality-TV",539
+tt13070602,"A Castle for Christmas",Movie,Netflix,5.6,98,2021,"Adventure, Comedy, Drama, Family, Romance",16530
+tt13087512,"Last Chance U: Basketball","TV Series",Netflix,8.3,60,2021,"Documentary, Sport",3756
+tt13089270,"The Wonderful World of Mickey Mouse","TV Series",Disney,7.9,8,2020,"Animation, Short, Adventure, Comedy, Family, Fantasy, Musical, Mystery, Sci-Fi, Western",1705
+tt13090810,"Good Times","TV Series",Netflix,4.1,25,2024,"Animation, Comedy",1543
+tt13103340,"Father Christmas Is Back",Movie,Netflix,4.6,105,2021,Comedy,7937
+tt13106334,"The Girl in the Mirror","TV Series",Netflix,6.2,56,2022,"Drama, Horror, Mystery, Thriller",3129
+tt13106900,"All Because of You",Movie,Netflix,4.1,101,2020,"Action, Comedy, Romance",288
+tt13110256,"Song Exploder","TV Series",Netflix,7.4,NULL,2020,"Documentary, Music",917
+tt13118012,"You've Got This",Movie,Netflix,5.9,111,2020,"Comedy, Romance",1549
+tt1312171,"The Umbrella Academy","TV Series",Netflix,7.8,60,2019,"Action, Adventure, Comedy, Drama, Fantasy, Sci-Fi",307588
+tt13131232,"Mission Majnu",Movie,Netflix,6.9,129,2023,"Action, Drama, History, Thriller",45290
+tt13136084,"My Amanda",Movie,Netflix,5.8,89,2021,"Drama, Romance",417
+tt13143964,"Borat Subsequent Moviefilm",Movie,Amazon,6.6,95,2020,Comedy,161490
+tt13150564,"Guillermo Villas: Settling the Score",Movie,Netflix,7.1,94,2020,"Documentary, Biography, Sport",758
+tt13150606,"Octonauts & the Great Barrier Reef",Movie,Netflix,6.8,47,2020,"Animation, Action, Adventure, Comedy, Family, Musical",257
+tt13150630,"Secrets of the Saqqara Tomb",Movie,Netflix,7.2,113,2020,"Documentary, History",7439
+tt13156316,"The Sons of Sam: A Descent into Darkness","TV Mini Series",Netflix,7,60,2021,"Documentary, Crime, History, Mystery",11208
+tt13157618,"Secret Invasion","TV Mini Series",Disney,5.8,45,2023,"Action, Adventure, Mystery, Sci-Fi, Thriller",87013
+tt13161310,"Dream Home Makeover","TV Series",Netflix,5.8,NULL,2020,Reality-TV,1656
+tt13161318,"Bigflo & Oli: Hip Hop Frenzy",Movie,Netflix,6.7,100,2020,"Documentary, Music",149
+tt13161356,"Love Me Instead",Movie,Netflix,7,124,2021,Drama,3467
+tt13173144,"Resident Evil: Infinite Darkness","TV Mini Series",Netflix,5.8,26,2021,"Animation, Action, Horror, Sci-Fi",13701
+tt13175760,Detention,"TV Mini Series",Netflix,6.4,50,2020,"Drama, Horror, Mystery, Thriller",699
+tt13186480,"So Not Worth It","TV Series",Netflix,6.9,35,2021,"Comedy, Drama",1550
+tt13186604,Uglies,Movie,Netflix,4.7,100,2024,"Action, Adventure, Drama, Fantasy, Sci-Fi",34763
+tt13206564,"The Three Deaths of Marisela Escobedo",Movie,Netflix,8.1,109,2020,"Documentary, Crime",2152
+tt13206842,"The Boys in the Band: Something Personal","TV Movie",Netflix,7.2,28,2020,Documentary,432
+tt13206988,"Paava Kadhaigal","TV Series",Netflix,8,36,2020,Drama,6083
+tt13207736,Monster,"TV Series",Netflix,7.8,60,2022,"Biography, Crime, Drama, Thriller",195773
+tt13210838,"The Gentlemen","TV Series",Netflix,8,50,2024,"Action, Comedy, Crime",167853
+tt13231962,Elves,"TV Series",Netflix,5.6,NULL,2021,"Drama, Fantasy, Horror, Mystery, Thriller",5279
+tt13236566,"Operation Christmas Drop",Movie,Netflix,5.9,95,2020,"Comedy, Family, Romance",13694
+tt13237174,"The Real Right Stuff",Movie,Disney,7.2,90,2020,Documentary,686
+tt13238304,"The Life and Movies of Ersan Kuneri","TV Series",Netflix,6.6,45,2022,"Comedy, History",18328
+tt13241650,"Ada Twist, Scientist","TV Series",Netflix,6,12,2021,"Animation, Short, Adventure, Comedy, Family, Music",384
+tt13244092,"Carmel: Who Killed Maria Marta?","TV Mini Series",Netflix,7,60,2020,"Documentary, Crime, Mystery",2916
+tt13255112,"Holiday Home Makeover with Mr. Christmas","TV Series",Netflix,5.9,NULL,2020,Reality-TV,360
+tt13260836,"Angela's Christmas Wish",Movie,Netflix,7.1,47,2020,"Animation, Adventure, Comedy, Drama, Family",1963
+tt13262150,"Felix Lobrecht: Hype","TV Special",Netflix,5.9,59,2020,Comedy,362
+tt13271734,"Lost Ollie","TV Mini Series",Netflix,7.7,45,2022,"Animation, Adventure, Drama, Family, Fantasy, Thriller",2135
+tt13274016,Reptile,Movie,Netflix,6.8,134,2023,"Crime, Drama, Mystery, Thriller",105314
+tt13275052,"Dive Club","TV Series",Netflix,6.2,27,2021,"Adventure, Drama, Family, Mystery",1398
+tt13276352,Toscana,Movie,Netflix,5.7,90,2022,"Drama, Romance",11167
+tt13276386,"Shawn Mendes: In Wonder",Movie,Netflix,6.5,83,2020,"Documentary, Music",2275
+tt13278100,Ganglands,"TV Series",Netflix,7.2,44,2021,"Action, Crime, Drama, Thriller",4883
+tt13279528,"What We Wanted",Movie,Netflix,5.9,93,2020,Drama,2144
+tt13282662,"Call My Agent Bollywood","TV Series",Netflix,5.2,40,2021,"Comedy, Drama",6411
+tt13290168,"High School Musical: The Musical: The Holiday Special",Movie,Disney,5.6,45,2020,"Comedy, Drama, Musical",518
+tt13302848,"Inside Pixar","TV Series",Disney,7.3,10,2020,"Documentary, Short, Family",842
+tt13304700,Snowdrop,"TV Series",Disney,8.1,85,2021,"Crime, Drama, Romance, Thriller, War",15248
+tt13308276,"Heirs to the Land","TV Series",Netflix,7.1,50,2022,"Drama, History",1936
+tt13309742,"Blue Eye Samurai","TV Series",Netflix,8.7,45,2023,"Animation, Action, Adventure, Drama, History, Thriller",95571
+tt13314558,"Day Shift",Movie,Netflix,6.1,113,2022,"Action, Comedy, Fantasy, Horror, Thriller",96606
+tt13315156,"First Kill","TV Series",Netflix,6.5,60,2022,"Drama, Horror, Mystery, Romance",30640
+tt13315324,"The Woman in the House Across the Street from the Girl in the Window","TV Mini Series",Netflix,6.4,26,2022,"Comedy, Crime, Drama, Mystery, Thriller",58390
+tt13316746,"Aunty Donna's Big Ol' House of Fun","TV Series",Netflix,7.9,20,2020,Comedy,7423
+tt13317454,"Yakamoz S-245","TV Series",Netflix,6.2,45,2022,"Action, Adventure, Drama, Mystery, Sci-Fi, Thriller",9268
+tt13317478,"Wild Abandon","TV Series",Netflix,7.1,45,2022,"Comedy, Drama",7029
+tt13317508,"Midnight at the Pera Palace","TV Series",Netflix,7,45,2022,"Drama, History, Mystery",12742
+tt13317582,"The Club","TV Series",Netflix,7.8,45,2021,"Drama, History",12618
+tt13317694,"Have You Ever Seen Fireflies?",Movie,Netflix,6.2,113,2021,"Comedy, Drama",5890
+tt13320662,Slumberland,Movie,Netflix,6.7,117,2022,"Adventure, Comedy, Drama, Family, Fantasy",35079
+tt13321232,"Karma's World","TV Series",Netflix,6.8,11,2021,"Animation, Short, Comedy, Family, Musical",258
+tt13322484,"Cops and Robbers",Short,Netflix,6.7,6,2020,"Animation, Short, Drama",1087
+tt13322938,"The Time It Takes","TV Mini Series",Netflix,7.1,10,2021,"Short, Drama, Romance",2349
+tt13322978,FanÃƒÂ¡tico,"TV Series",Netflix,5.1,10,2022,"Comedy, Drama, Music",214
+tt13323004,"Feria: The Darkest Light","TV Series",Netflix,5.6,50,2022,"Crime, Drama, Fantasy, Horror, Thriller",3286
+tt13323092,"Murder by the Coast",Movie,Netflix,6.5,88,2021,"Documentary, Crime, History, Mystery",2693
+tt13323128,"Hate by Dani Rovira","TV Special",Netflix,6.7,82,2021,Comedy,493
+tt13323170,"800 Meters","TV Mini Series",Netflix,7.1,NULL,2022,"Documentary, Crime",985
+tt13323566,"As the Crow Flies","TV Series",Netflix,6.4,45,2022,Drama,8138
+tt13327038,"Do Revenge",Movie,Netflix,6.3,118,2022,"Comedy, Romance",55240
+tt13328840,"Finding Agnes",Movie,Netflix,5,105,2020,Drama,233
+tt13329282,"Voices of Fire","TV Series",Netflix,6.9,NULL,2020,"Music, Reality-TV",434
+tt13350858,"Battle: Freestyle",Movie,Netflix,4.7,88,2022,"Drama, Music, Romance",700
+tt13351440,"Ridley Jones","TV Series",Netflix,2,27,2021,"Animation, Adventure, Comedy, Family, Fantasy, Musical",1639
+tt13351446,"Spirit Rangers","TV Series",Netflix,6.9,22,2022,"Animation, Action, Adventure, Comedy, Family, Fantasy",280
+tt13351614,"The Orbital Children","TV Mini Series",Netflix,6.4,38,2022,"Animation, Adventure, Drama, Fantasy, Sci-Fi",971
+tt13352232,"High-Rise Invasion","TV Series",Netflix,6.5,25,2021,"Animation, Action, Horror, Mystery, Thriller",5232
+tt13353456,Wonderoos,"TV Series",Netflix,6.6,14,2020,"Animation, Adventure, Comedy, Family",49
+tt13353486,"Notes for My Son",Movie,Netflix,6.5,84,2020,Drama,1083
+tt13353508,"Dragons: Rescue Riders: Huttsgalor Holiday","TV Special",Netflix,5.1,46,2020,"Animation, Family",187
+tt13354204,"Just Another Christmas",Movie,Netflix,6.7,100,2020,"Comedy, Drama",6047
+tt13357124,"The Way of the Househusband","TV Series",Netflix,7.3,16,2021,"Animation, Action, Comedy, Crime, Drama",7065
+tt13357140,"Baki Hanma","TV Series",Netflix,7,25,2021,"Animation, Action, Drama, Sport, Thriller",5742
+tt13357234,"Thermae Romae Novae","TV Mini Series",Netflix,7,30,2022,"Animation, Comedy, Fantasy, History",1438
+tt13357946,Navarasa,"TV Series",Netflix,5.8,30,2021,Drama,3910
+tt13363298,"Trial 4","TV Mini Series",Netflix,7.4,60,2020,"Documentary, Crime",2535
+tt13365348,"Archive 81","TV Series",Netflix,7.3,60,2022,"Drama, Horror, Mystery, Sci-Fi, Thriller",65132
+tt13400146,"Hazel Brugger: Tropical","TV Special",Netflix,6.4,58,2020,Comedy,467
+tt13411942,"Chico Bon Bon and the Very Berry Holiday","TV Movie",Netflix,5.6,25,2020,"Animation, Family",53
+tt13411948,"Captain Underpants: Mega Blissmas","TV Special",Netflix,5.2,45,2020,"Animation, Comedy, Family",309
+tt13422586,"Mighty Express: A Mighty Christmas","TV Special",Netflix,5.1,25,2020,"Animation, Family",67
+tt13433082,"Kevin Hart: Zero F**ks Given","TV Special",Netflix,6.1,69,2020,Comedy,3909
+tt13433814,"My Dad the Bounty Hunter","TV Series",Netflix,7.3,22,2023,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",1794
+tt13438900,"How to Be A Cowboy","TV Series",Netflix,7.4,NULL,2021,Reality-TV,212
+tt13443470,Wednesday,"TV Series",Netflix,8,45,2022,"Comedy, Crime, Fantasy, Mystery",451535
+tt13444912,"The Midnight Club","TV Series",Netflix,6.5,60,2022,"Drama, Horror, Mystery, Thriller",39230
+tt13446126,"Ghost Lab",Movie,Netflix,5.2,117,2021,"Drama, Horror, Thriller",1792
+tt13446424,"Christmas Crossfire",Movie,Netflix,4.8,106,2020,"Comedy, Crime, Thriller",1713
+tt13452100,"Fabulous Lives of Bollywood Wives","TV Series",Netflix,4.1,35,2020,"Documentary, Reality-TV, Romance",10592
+tt13452446,Damsel,Movie,Netflix,6.1,110,2024,"Action, Adventure, Fantasy",113272
+tt13454122,"Arlo the Alligator Boy","TV Movie",Netflix,6.4,90,2021,"Animation, Adventure, Comedy, Family, Musical",1319
+tt13456318,Persuasion,Movie,Netflix,5.8,108,2022,"Drama, Romance",38746
+tt13457822,"Welcome to Eden","TV Series",Netflix,5.6,40,2022,"Action, Drama, Sci-Fi, Thriller",8637
+tt13458584,"A Trash Truck Christmas","TV Short",Netflix,5.7,28,2020,"Animation, Short, Adventure, Comedy, Family",307
+tt13458600,"Emicida: AmarElo - It's All for Yesterday",Movie,Netflix,8.5,89,2020,"Documentary, Music",1697
+tt13464340,"Alien Worlds","TV Series",Netflix,6.6,NULL,2020,"Documentary, Animation, Sci-Fi",4429
+tt13479592,Centaur,Movie,Netflix,5.3,89,2022,"Action, Crime, Drama, Thriller",1657
+tt13479662,"A Go! Go! Cory Carson Christmas","TV Special",Netflix,6.2,21,2020,"Animation, Short, Family",77
+tt13486136,"Anitta: Made in HonÃƒÂ³rio","TV Mini Series",Netflix,6.9,NULL,2020,"Documentary, Biography, Music",495
+tt13487106,"The Surgeon's Cut","TV Series",Netflix,8.4,60,2020,Documentary,1322
+tt13492362,"How to Ruin Christmas","TV Series",Netflix,6.4,50,2020,"Comedy, Drama",710
+tt13492374,"The Ripper","TV Mini Series",Netflix,7.1,50,2020,"Documentary, Crime",11603
+tt13495314,"Open Your Eyes","TV Series",Netflix,6.6,50,2021,"Drama, Mystery, Sci-Fi, Thriller",2110
+tt13510660,Dhamaka,Movie,Netflix,6.7,103,2021,"Action, Crime, Drama, Thriller",43447
+tt13521850,"The Netflix Afterparty","TV Series",Netflix,3.7,NULL,2020,Talk-Show,565
+tt13524842,"Generation 56K","TV Series",Netflix,7.3,30,2021,"Comedy, Drama, Romance",3135
+tt13528526,"London Hughes: To Catch a Dick","TV Special",Netflix,4.8,68,2020,Comedy,367
+tt13528562,"Asakusa Kid",Movie,Netflix,7.1,122,2021,"Biography, Drama",1952
+tt13528990,"Shawn Mendes: Live in Concert",Movie,Netflix,7.3,88,2020,Music,421
+tt13529034,"Meenakshi Sundareshwar",Movie,Netflix,6.6,140,2021,"Comedy, Romance",18873
+tt13529992,"Vir Das: Outside in - The Lockdown Special","TV Special",Netflix,6.4,50,2020,Comedy,335
+tt13530018,"Rhyme Time Town Singalongs","TV Series",Netflix,7.3,NULL,2020,"Animation, Family",27
+tt13538282,"Una conversaciÃƒÂ³n: Ya no estoy aquÃƒÂ­",Short,Netflix,6.8,14,2020,"Documentary, Short",34
+tt13540900,"Room 2806: The Accusation","TV Mini Series",Netflix,7,49,2020,"Documentary, Crime",2593
+tt13560186,"Once Upon a Time... Happily Never After","TV Mini Series",Netflix,5.4,30,2022,"Comedy, Fantasy, Musical",687
+tt13561292,Maldivas,"TV Series",Netflix,5.8,30,2022,"Comedy, Crime, Drama, Mystery",1377
+tt13563634,"Best Leftovers Ever!","TV Series",Netflix,5.7,NULL,2020,"Game-Show, Reality-TV",680
+tt13567480,"Death to 2020","TV Special",Netflix,6.8,70,2020,Comedy,40683
+tt13570366,"Break It All: The History of Rock in Latin America","TV Mini Series",Netflix,7.6,NULL,2020,"Documentary, Biography, Music",1448
+tt13573450,"I Heart Arlo","TV Series",Netflix,6.8,11,2021,"Animation, Short, Adventure, Comedy, Family, Musical",299
+tt13574490,"All the Same... or Not","TV Series",Disney,5.7,30,2022,"Comedy, Drama",139
+tt13575806,"Back to the Outback",Movie,Netflix,6.5,95,2021,"Animation, Adventure, Comedy, Family",11832
+tt13583144,"The Minimalists: Less Is Now",Movie,Netflix,5.9,53,2021,Documentary,5447
+tt13603966,"Heart of Stone",Movie,Netflix,5.7,122,2023,"Action, Crime, Thriller",66684
+tt13606090,"A Perfect Fit",Movie,Netflix,5.4,112,2021,"Comedy, Drama, Romance",778
+tt13607518,"Schulz Saves America","TV Series",Netflix,7.2,NULL,2020,Comedy,1287
+tt13607632,"An Unremarkable Christmas","TV Movie",Netflix,3.3,82,2020,"Comedy, Drama",173
+tt13610562,"The Bubble",Movie,Netflix,4.7,126,2022,Comedy,29963
+tt13611770,"Seoul Vibe",Movie,Netflix,5.5,138,2022,"Action, Comedy, Crime, Drama",2398
+tt13615386,"Ariana Grande: Excuse Me, I Love You",Movie,Netflix,6.4,97,2020,"Documentary, Music",3191
+tt13617024,"Headspace Guide to Meditation","TV Mini Series",Netflix,8.4,22,2021,"Documentary, Animation",1992
+tt13617060,"History of Swear Words","TV Series",Netflix,6.4,NULL,2021,"Documentary, Comedy",5740
+tt13622146,Found,Movie,Netflix,7.5,97,2021,"Documentary, Drama",1488
+tt13622776,Ahsoka,"TV Series",Disney,7.4,50,2023,"Action, Adventure, Fantasy, Sci-Fi",134870
+tt13622956,Zootopia+,"TV Series",Disney,6.8,8,2022,"Animation, Short, Adventure, Comedy, Crime, Family, Musical, Romance",6088
+tt13622958,Baymax!,"TV Mini Series",Disney,7.2,12,2022,"Animation, Short, Action, Adventure, Comedy, Family, Sci-Fi",9313
+tt13622982,"Star Wars: Visions","TV Series",Disney,7,22,2021,"Animation, Action, Adventure, Drama, Fantasy, Sci-Fi",26207
+tt13623126,Ironheart,"TV Mini Series",Disney,4.4,50,2025,"Action, Adventure, Fantasy, Sci-Fi",60108
+tt13623136,"The Guardians of the Galaxy Holiday Special","TV Special",Disney,6.9,42,2022,"Action, Adventure, Comedy, Sci-Fi",104837
+tt13623148,"I Am Groot","TV Series",Disney,6.7,4,2022,"Animation, Short, Action, Adventure, Comedy, Fantasy, Sci-Fi",44446
+tt13623772,IwÃƒÂ¡jÃƒÂº,"TV Mini Series",Disney,7.2,136,2024,"Animation, Action, Adventure, Drama, Family, Sci-Fi",1280
+tt13623880,"Night at the Museum: Kahmunrah Rises Again",Movie,Disney,5,77,2022,"Animation, Adventure, Comedy, Family, Fantasy",2967
+tt13623992,"Welcome to Earth","TV Series",Disney,7.7,44,2021,"Documentary, Adventure",3382
+tt13624052,"Win or Lose","TV Mini Series",Disney,8,20,2025,"Animation, Comedy, Family, Fantasy, Sport",4827
+tt13624054,"Dug Days","TV Mini Series",Disney,8,10,2021,"Animation, Short, Adventure, Comedy, Family",6070
+tt13624584,"Bad Exorcist","TV Series",Netflix,6.4,12,2020,"Comedy, Animation",741
+tt13634444,"Pixar Popcorn","TV Mini Series",Disney,6.5,19,2021,"Animation, Short, Comedy, Family",2563
+tt13634480,"The Ice Age Adventures of Buck Wild",Movie,Disney,4.4,82,2022,"Animation, Adventure, Comedy, Family",18909
+tt13640670,"Man vs. Bee","TV Series",Netflix,6.7,12,2022,"Short, Comedy, Family",36417
+tt13644666,Foodtastic,"TV Series",Disney,5,45,2021,"Game-Show, Reality-TV",207
+tt13649112,"Baby Reindeer","TV Mini Series",Netflix,7.7,30,2024,"Biography, Comedy, Drama",180580
+tt13649396,"The Bastard Son & The Devil Himself","TV Series",Netflix,7.5,60,2022,"Action, Adventure, Drama, Fantasy, Horror",16057
+tt13649532,"The G Word with Adam Conover","TV Mini Series",Netflix,6.7,NULL,2022,"Documentary, Comedy",1259
+tt13649688,"Best of Stand-Up 2020","TV Special",Netflix,5.5,76,2020,Comedy,733
+tt13649692,"Surviving Death","TV Series",Netflix,6.2,50,2021,"Documentary, Reality-TV",2524
+tt13649700,"Crack: Cocaine, Corruption & Conspiracy",Movie,Netflix,6.7,89,2021,"Documentary, Crime, History",4059
+tt13650480,"Marvel Studios: Legends","TV Series",Disney,6.5,7,2021,"Short, Action, Adventure, Fantasy, Sci-Fi",5444
+tt13650494,"Chang Can Dunk",Movie,Disney,6.3,109,2023,"Drama, Family, Sport",1811
+tt1365050,"Beasts of No Nation",Movie,Netflix,7.7,137,2015,"Drama, War",89822
+tt13651632,"Night Stalker: The Hunt for a Serial Killer","TV Mini Series",Netflix,7.5,50,2021,"Documentary, Crime, Mystery",32863
+tt13655328,"End of the Road",Movie,Netflix,4.8,89,2022,"Action, Crime, Drama, Mystery, Thriller",9535
+tt13655456,"True Story","TV Mini Series",Netflix,7.4,37,2021,"Crime, Drama, Thriller",21417
+tt13656220,"We Are: The Brooklyn Saints","TV Series",Netflix,6.5,NULL,2021,"Documentary, Sport",189
+tt13660958,"Pretend It's a City","TV Mini Series",Netflix,8,30,2021,"Documentary, Biography, Comedy",8938
+tt13660962,"Bling Empire","TV Series",Netflix,5.8,38,2021,Reality-TV,3848
+tt13664452,"Yu Yu Hakusho","TV Series",Netflix,7.2,55,2023,"Action, Adventure, Comedy, Drama, Fantasy",9651
+tt13667212,"What Happened to Mr. Cha?",Movie,Netflix,4.4,102,2021,"Comedy, Drama",419
+tt13668894,"The Book of Boba Fett","TV Mini Series",Disney,7.1,50,2021,"Action, Adventure, Sci-Fi",203239
+tt13669344,"The Misadventures of Hedi and Cokeman",Movie,Netflix,4.5,99,2021,"Action, Comedy, Crime",817
+tt13676344,"Record of Ragnarok","TV Series",Netflix,6.5,24,2021,"Animation, Action, Adventure, Drama, Fantasy, Thriller",10653
+tt13696452,"Money Heist: Korea - Joint Economic Area","TV Series",Netflix,5.8,60,2022,"Action, Crime, Drama, Mystery, Thriller",9951
+tt13696668,"Tony Parker: The Final Shot",Movie,Netflix,6.8,98,2021,"Documentary, Biography, Sport",1680
+tt13697652,"You're Nothing Special","TV Series",Netflix,5.6,35,2022,"Comedy, Fantasy",687
+tt13701962,"A California Christmas: City Lights",Movie,Netflix,5.6,106,2021,"Comedy, Drama, Romance",3752
+tt13702252,Dealer,"TV Mini Series",Netflix,6.2,NULL,2021,"Short, Action, Crime, Drama, Thriller",856
+tt13711094,"Mighty Little Bheem: Kite Festival","TV Series",Netflix,6.8,NULL,2021,"Animation, Comedy, Family",33
+tt13717980,Grudge,Movie,Netflix,5.5,105,2021,"Crime, Drama, Mystery, Thriller",5149
+tt13720112,"The Empress","TV Series",Netflix,7.8,60,2022,"Drama, History, Romance",20249
+tt13728764,"June and Kopi",Movie,Netflix,6.4,90,2021,"Comedy, Family",698
+tt13729220,Photocopier,Movie,Netflix,6.8,130,2021,"Crime, Drama, Mystery, Thriller",4272
