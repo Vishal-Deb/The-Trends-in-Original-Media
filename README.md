@@ -44,6 +44,6 @@ The analysis highlights that Netflix holds a disproportionately large share in t
 ![](Images/newplot(8).png)
 ![](Images/newplot(7)-imageonline.co-merged.png)
 
-![here](Generated%20Plots/pie_by_origin.html)
+to see these charts yourslef click ![here1](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/pie_by_origin.html) , ![here2](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/pie_by_type.html), ![here3](https://github.com/Vishal-Deb/The-Trends-in-Original-Media/blob/main/Generated%20Plots/pie_total_origin.html)
 
 ### Summery Overview
